@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boas vindas</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .link-container {
+            display: inline-block;
+            width: 200px;
+            height: 200px;
+            background-image: url('icon_lofi.jpg'); /* Utiliza a imagem "icon_page.jpg" */
+            background-size: cover;
+            background-position: center;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .link-container:hover {
+            transform: scale(1.1);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        a {
+            display: inline-block;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Boas vindas</h1>
+        <p>A última atualização dessas anotações foi no dia 28/08/2024.</p>
+        <p>Basta clicar na imagem abaixo. Bons estudos!</p>
+        <a href="./estudos/Guia de estudos.html">
+            <div class="link-container"></div>
+        </a>
+    </div>
+</body>
+</html>
