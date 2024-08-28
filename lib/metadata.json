@@ -1,0 +1,386 @@
+{
+  "vaultName": "Meu caderno",
+  "lastExport": 1724862294617,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "assets/estudos/desenho/exemplo_circulos.png",
+    "assets/estudos/desenho/exemplo_linhas.png",
+    "assets/estudos/leituras/Aprendendo a aprender/neurônio.png",
+    "assets/estudos/leituras/Aprendendo a aprender/neurônio_metáfora.png",
+    "assets/rascunhos/matemática/comparando valores.png",
+    "assets/rascunhos/redação/O que é uma redação Enem.png",
+    "estudos/desenho/Anotações.md",
+    "estudos/desenho/Registrando evolução.md",
+    "estudos/Enem/assuntos/humanas/1.1 História geral.md",
+    "estudos/Enem/assuntos/humanas/1.2 História do Brasil.md",
+    "estudos/Enem/assuntos/humanas/1.3 História da arte.md",
+    "estudos/Enem/assuntos/humanas/Filosofia e sociologia.md",
+    "estudos/Enem/assuntos/humanas/Geografia.md",
+    "estudos/Enem/assuntos/linguagem/1. Gramatica.md",
+    "estudos/Enem/assuntos/linguagem/2. Interpretação de texto.md",
+    "estudos/Enem/assuntos/linguagem/3. Literatura.md",
+    "estudos/Enem/assuntos/natureza/Biologia.md",
+    "estudos/Enem/assuntos/natureza/Física 1.md",
+    "estudos/Enem/assuntos/natureza/Física 2.md",
+    "estudos/Enem/assuntos/natureza/Química.md",
+    "estudos/Enem/assuntos/Matemática.md",
+    "estudos/Enem/assuntos/Redação.md",
+    "estudos/Enem/Assuntos estudados.md",
+    "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.md",
+    "estudos/leituras/Aprendendo a aprender/Guia prático.md",
+    "estudos/leituras/Hábitos atômicos/identidade/meu-plano.md",
+    "estudos/leituras/Hábitos atômicos/identidade/minha-identidade.md",
+    "estudos/leituras/Hábitos atômicos/identidade/minha-moral.md",
+    "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.md",
+    "estudos/leituras/Hábitos atômicos/2. Parar maus hábitos.md",
+    "estudos/leituras/Hábitos atômicos/3. Destacar-se.md",
+    "estudos/leituras/Hábitos atômicos/Hábitos atômicos.md",
+    "estudos/leituras/Livros-lidos.md",
+    "estudos/Ciclos de estudos.md",
+    "estudos/Detalhamento do guia.md",
+    "estudos/Guia de estudos.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "assets/estudos/desenho/exemplo_circulos.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 75367,
+      "exportedPath": "assets/estudos/desenho/exemplo_circulos.png",
+      "dependencies": []
+    },
+    "assets/estudos/desenho/exemplo_linhas.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 33225,
+      "exportedPath": "assets/estudos/desenho/exemplo_linhas.png",
+      "dependencies": []
+    },
+    "assets/estudos/leituras/Aprendendo a aprender/neurônio.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 63293,
+      "exportedPath": "assets/estudos/leituras/Aprendendo a aprender/neurônio.png",
+      "dependencies": []
+    },
+    "assets/estudos/leituras/Aprendendo a aprender/neurônio_metáfora.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 58107,
+      "exportedPath": "assets/estudos/leituras/Aprendendo a aprender/neurônio_metáfora.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/comparando valores.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 48426,
+      "exportedPath": "assets/rascunhos/matemática/comparando valores.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/redação/O que é uma redação Enem.png": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 66820,
+      "exportedPath": "assets/rascunhos/redação/O que é uma redação Enem.png",
+      "dependencies": []
+    },
+    "estudos/desenho/Anotações.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 732,
+      "exportedPath": "estudos/desenho/Anotações.html",
+      "dependencies": []
+    },
+    "estudos/desenho/Registrando evolução.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 0,
+      "exportedPath": "estudos/desenho/Registrando evolução.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/humanas/1.1 História geral.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1038,
+      "exportedPath": "estudos/Enem/assuntos/humanas/1.1 História geral.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/humanas/1.2 História do Brasil.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1560,
+      "exportedPath": "estudos/Enem/assuntos/humanas/1.2 História do Brasil.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/humanas/1.3 História da arte.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1317,
+      "exportedPath": "estudos/Enem/assuntos/humanas/1.3 História da arte.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/humanas/Filosofia e sociologia.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1831,
+      "exportedPath": "estudos/Enem/assuntos/humanas/Filosofia e sociologia.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/humanas/Geografia.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 3131,
+      "exportedPath": "estudos/Enem/assuntos/humanas/Geografia.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/linguagem/1. Gramatica.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1111,
+      "exportedPath": "estudos/Enem/assuntos/linguagem/1. Gramatica.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/linguagem/2. Interpretação de texto.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1494,
+      "exportedPath": "estudos/Enem/assuntos/linguagem/2. Interpretação de texto.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/linguagem/3. Literatura.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 2453,
+      "exportedPath": "estudos/Enem/assuntos/linguagem/3. Literatura.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/natureza/Biologia.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 3762,
+      "exportedPath": "estudos/Enem/assuntos/natureza/Biologia.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/natureza/Física 1.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 1899,
+      "exportedPath": "estudos/Enem/assuntos/natureza/Física 1.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/natureza/Física 2.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 3230,
+      "exportedPath": "estudos/Enem/assuntos/natureza/Física 2.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/natureza/Química.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 5210,
+      "exportedPath": "estudos/Enem/assuntos/natureza/Química.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/Matemática.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 3596,
+      "exportedPath": "estudos/Enem/assuntos/Matemática.html",
+      "dependencies": []
+    },
+    "estudos/Enem/assuntos/Redação.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 25940,
+      "exportedPath": "estudos/Enem/assuntos/Redação.html",
+      "dependencies": []
+    },
+    "estudos/Enem/Assuntos estudados.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 888,
+      "exportedPath": "estudos/Enem/Assuntos estudados.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 34673,
+      "exportedPath": "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Aprendendo a aprender/Guia prático.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 4104,
+      "exportedPath": "estudos/leituras/Aprendendo a aprender/Guia prático.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/identidade/meu-plano.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 896,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/identidade/meu-plano.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/identidade/minha-identidade.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 720,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/identidade/minha-identidade.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/identidade/minha-moral.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 874,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/identidade/minha-moral.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 6144,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/2. Parar maus hábitos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 3374,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/2. Parar maus hábitos.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/3. Destacar-se.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 4917,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/3. Destacar-se.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Hábitos atômicos/Hábitos atômicos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 12490,
+      "exportedPath": "estudos/leituras/Hábitos atômicos/Hábitos atômicos.html",
+      "dependencies": []
+    },
+    "estudos/leituras/Livros-lidos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 744,
+      "exportedPath": "estudos/leituras/Livros-lidos.html",
+      "dependencies": []
+    },
+    "estudos/Ciclos de estudos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 681,
+      "exportedPath": "estudos/Ciclos de estudos.html",
+      "dependencies": []
+    },
+    "estudos/Detalhamento do guia.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 2219,
+      "exportedPath": "estudos/Detalhamento do guia.html",
+      "dependencies": []
+    },
+    "estudos/Guia de estudos.md": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 5930,
+      "exportedPath": "estudos/Guia de estudos.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1724862294617,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
