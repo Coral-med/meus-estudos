@@ -1,6 +1,6 @@
 {
   "vaultName": "Meu caderno",
-  "lastExport": 1728784117947,
+  "lastExport": 1730142815896,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -13,24 +13,35 @@
     "assets/rascunhos/biologia/9. Plantas e reino Plantae/Partes da planta.png",
     "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes corpo humano.png",
     "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes tórax humano.png",
-    "assets/rascunhos/matemática/1. Contando/Comparando valores.png",
-    "assets/rascunhos/matemática/2. Operações fundamentais/Adição.png",
-    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/1. Base da adição.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/2. Adição de círculos e quadrados (1).png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/3. Adição de círculos e quadrados (2).png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/4. Somando figuras (Ordem irrelevante) (1).png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/5. Somando figuras (Ordem irrelevante) (2).png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/1. Base da subtração.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/2. Valores visualmente.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/3. Exemplo 1.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/4. Exemplo 2.png",
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/5. Exemplo 3.png",
     "assets/rascunhos/matemática/3. Álgebra/Padrões numéricos.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Círculo.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Corpos não redondos.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Formas geométricas.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Losango.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Quadrado.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Retângulo.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Trapézio.png",
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Triângulo.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Círculo.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Corpos não redondos.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Formas geométricas.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Losango.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Quadrado.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Retângulo.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Trapézio.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Triângulo.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cilindro.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cone.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cubo.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Esfera.png",
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Paralelepípedo.png",
     "assets/rascunhos/matemática/5. Grandezas e medidas/Três formas geométricas diferentes.png",
     "assets/rascunhos/matemática/5. Grandezas e medidas/Três triângulos diferentes.png",
     "assets/rascunhos/matemática/6. Leitura de gráficos/Gráfico de barras (hospital).png",
     "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (linha, coluna e célula).png",
     "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (título).png",
-    "assets/rascunhos/redação/O que é uma redação Enem.png",
     "estudos/Enem/assuntos/humanas/1.1 História geral.md",
     "estudos/Enem/assuntos/humanas/1.2 História do Brasil.md",
     "estudos/Enem/assuntos/humanas/1.3 História da arte.md",
@@ -45,8 +56,9 @@
     "estudos/Enem/assuntos/natureza/Química.md",
     "estudos/Enem/assuntos/Matemática.md",
     "estudos/Enem/assuntos/Redação.md",
-    "estudos/Enem/0 - Ciclos de estudos.md",
     "estudos/Enem/Assuntos estudados.md",
+    "estudos/Enem/Ciclos de estudos (atual).md",
+    "estudos/Enem/Plano de estudos.md",
     "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.md",
     "estudos/leituras/Aprendendo a aprender/Guia prático.md",
     "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.md",
@@ -61,19 +73,29 @@
     "rascunhos/biologia/13. Sistemas do corpo humano/13. 1. Partes do corpo.md",
     "rascunhos/biologia/14. Ecologia/14. 1. Descarte de lixo.md",
     "rascunhos/história/1. Pré-história.md",
-    "rascunhos/matemática 1/1. Números/1. 1. Como funcionam números.md",
-    "rascunhos/matemática 1/1. Números/1. 2. Comparando valores.md",
-    "rascunhos/matemática 1/2. Operações/2. 1. Adição.md",
-    "rascunhos/matemática 1/2. Operações/2. 2. Subtração.md",
-    "rascunhos/matemática 1/3. Álgebra/3. 1. Reconhecendo padrões numéricos.md",
-    "rascunhos/matemática 1/4. Geometria/4. 1. Reconhecendo formas.md",
-    "rascunhos/matemática 1/5. Grandezas e medidas/5. 1. Tamanhos.md",
-    "rascunhos/matemática 1/5. Grandezas e medidas/5. 2. Medidas de tempo.md",
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 1. Gráfico de barras.md",
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 2. Tabelas.md",
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md",
+    "rascunhos/matemática/1. Números/1. 1. Como contar.md",
+    "rascunhos/matemática/1. Números/1. 2. Comparando valores.md",
+    "rascunhos/matemática/2. Operações/2. 1. Adição.md",
+    "rascunhos/matemática/2. Operações/2. 2. Subtração.md",
+    "rascunhos/matemática/3. Álgebra/3. 1. Reconhecendo padrões numéricos.md",
+    "rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas.md",
+    "rascunhos/matemática/4. Geometria/4. 2. Reconhecendo Formas Espaciais.md",
+    "rascunhos/matemática/5. Grandezas e medidas/5. 1. Tamanhos.md",
+    "rascunhos/matemática/5. Grandezas e medidas/5. 2. Medidas de tempo.md",
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 1. Gráfico de barras.md",
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 2. Tabelas.md",
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md",
+    "rascunhos/matemática/Observação sobre matemática básica.md",
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Rascunho.jpg",
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Redação (não corrigida).png",
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Tema e texto de apoio.pdf",
+    "rascunhos/redação/Redações feitas/folha_redacao.pdf",
     "rascunhos/redação/1. O que é uma redação Enem.md",
     "rascunhos/redação/2. Competências da redação.md",
+    "rascunhos/redação/3. Como fazer uma redação.md",
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md",
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md",
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -88,7 +110,29 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg"
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -105,505 +149,791 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg"
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
     "assets/estudos/leituras/Aprendendo a aprender/neurônio.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 63293,
       "exportedPath": "assets/estudos/leituras/Aprendendo a aprender/neurônio.png",
       "dependencies": []
     },
     "assets/estudos/leituras/Aprendendo a aprender/neurônio_metáfora.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 58107,
       "exportedPath": "assets/estudos/leituras/Aprendendo a aprender/neurônio_metáfora.png",
       "dependencies": []
     },
     "assets/rascunhos/biologia/9. Plantas e reino Plantae/girassol.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 577882,
       "exportedPath": "assets/rascunhos/biologia/9. Plantas e reino Plantae/girassol.png",
       "dependencies": []
     },
     "assets/rascunhos/biologia/9. Plantas e reino Plantae/Partes da folha.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 192765,
       "exportedPath": "assets/rascunhos/biologia/9. Plantas e reino Plantae/Partes da folha.png",
       "dependencies": []
     },
     "assets/rascunhos/biologia/9. Plantas e reino Plantae/Partes da planta.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 75973,
       "exportedPath": "assets/rascunhos/biologia/9. Plantas e reino Plantae/Partes da planta.png",
       "dependencies": []
     },
     "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes corpo humano.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 149654,
       "exportedPath": "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes corpo humano.png",
       "dependencies": []
     },
     "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes tórax humano.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 19904,
       "exportedPath": "assets/rascunhos/biologia/13. Sistemas do corpo humano/partes tórax humano.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/1. Contando/Comparando valores.png": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 48426,
-      "exportedPath": "assets/rascunhos/matemática/1. Contando/Comparando valores.png",
-      "dependencies": []
-    },
-    "assets/rascunhos/matemática/2. Operações fundamentais/Adição.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/1. Base da adição.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 41641,
-      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição.png",
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição/1. Base da adição.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/2. Adição de círculos e quadrados (1).png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 10048,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição/2. Adição de círculos e quadrados (1).png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/3. Adição de círculos e quadrados (2).png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 15174,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição/3. Adição de círculos e quadrados (2).png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/4. Somando figuras (Ordem irrelevante) (1).png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 19892,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição/4. Somando figuras (Ordem irrelevante) (1).png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Adição/5. Somando figuras (Ordem irrelevante) (2).png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 22358,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Adição/5. Somando figuras (Ordem irrelevante) (2).png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/1. Base da subtração.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 20468,
-      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração.png",
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/1. Base da subtração.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/2. Valores visualmente.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 13369,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/2. Valores visualmente.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/3. Exemplo 1.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 14252,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/3. Exemplo 1.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/4. Exemplo 2.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 15092,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/4. Exemplo 2.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/5. Exemplo 3.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 16074,
+      "exportedPath": "assets/rascunhos/matemática/2. Operações fundamentais/Subtração/5. Exemplo 3.png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/3. Álgebra/Padrões numéricos.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 26091,
       "exportedPath": "assets/rascunhos/matemática/3. Álgebra/Padrões numéricos.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Círculo.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Círculo.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 5311,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Círculo.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Círculo.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Corpos não redondos.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Corpos não redondos.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 18096,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Corpos não redondos.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Corpos não redondos.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Formas geométricas.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Formas geométricas.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 19360,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Formas geométricas.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Formas geométricas.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Losango.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Losango.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 5088,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Losango.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Losango.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Quadrado.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Quadrado.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 6811,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Quadrado.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Quadrado.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Retângulo.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Retângulo.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 7322,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Retângulo.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Retângulo.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Trapézio.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Trapézio.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 4884,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Trapézio.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Trapézio.png",
       "dependencies": []
     },
-    "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Triângulo.png": {
-      "modifiedTime": 1728784117947,
+    "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Triângulo.png": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 6658,
-      "exportedPath": "assets/rascunhos/matemática/4. Geometria/Reconhecendo formas/Triângulo.png",
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas/Triângulo.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cilindro.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 39338,
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cilindro.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cone.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 48642,
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cone.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cubo.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 38061,
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Cubo.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Esfera.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 81564,
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Esfera.png",
+      "dependencies": []
+    },
+    "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Paralelepípedo.png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 42852,
+      "exportedPath": "assets/rascunhos/matemática/4. Geometria/4. 2. Reconhecendo formas espaciais/Paralelepípedo.png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/5. Grandezas e medidas/Três formas geométricas diferentes.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 7245,
       "exportedPath": "assets/rascunhos/matemática/5. Grandezas e medidas/Três formas geométricas diferentes.png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/5. Grandezas e medidas/Três triângulos diferentes.png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 11685,
       "exportedPath": "assets/rascunhos/matemática/5. Grandezas e medidas/Três triângulos diferentes.png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/6. Leitura de gráficos/Gráfico de barras (hospital).png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 48752,
       "exportedPath": "assets/rascunhos/matemática/6. Leitura de gráficos/Gráfico de barras (hospital).png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (linha, coluna e célula).png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 41431,
       "exportedPath": "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (linha, coluna e célula).png",
       "dependencies": []
     },
     "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (título).png": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 45145,
       "exportedPath": "assets/rascunhos/matemática/6. Leitura de gráficos/Tabela (título).png",
       "dependencies": []
     },
-    "assets/rascunhos/redação/O que é uma redação Enem.png": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 66820,
-      "exportedPath": "assets/rascunhos/redação/O que é uma redação Enem.png",
-      "dependencies": []
-    },
     "estudos/Enem/assuntos/humanas/1.1 História geral.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1804,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1793,
       "exportedPath": "estudos/Enem/assuntos/humanas/1.1 História geral.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/humanas/1.2 História do Brasil.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1560,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1546,
       "exportedPath": "estudos/Enem/assuntos/humanas/1.2 História do Brasil.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/humanas/1.3 História da arte.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1317,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1310,
       "exportedPath": "estudos/Enem/assuntos/humanas/1.3 História da arte.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/humanas/Filosofia e sociologia.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1831,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1822,
       "exportedPath": "estudos/Enem/assuntos/humanas/Filosofia e sociologia.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/humanas/Geografia.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 3131,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3123,
       "exportedPath": "estudos/Enem/assuntos/humanas/Geografia.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/linguagem/1. Gramatica.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1111,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1106,
       "exportedPath": "estudos/Enem/assuntos/linguagem/1. Gramatica.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/linguagem/2. Interpretação de texto.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1494,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1462,
       "exportedPath": "estudos/Enem/assuntos/linguagem/2. Interpretação de texto.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/linguagem/3. Literatura.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 2453,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 2444,
       "exportedPath": "estudos/Enem/assuntos/linguagem/3. Literatura.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/natureza/Biologia.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 3740,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3684,
       "exportedPath": "estudos/Enem/assuntos/natureza/Biologia.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/natureza/Física 1.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1899,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1857,
       "exportedPath": "estudos/Enem/assuntos/natureza/Física 1.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/natureza/Física 2.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 3230,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3162,
       "exportedPath": "estudos/Enem/assuntos/natureza/Física 2.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/natureza/Química.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 5210,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 5205,
       "exportedPath": "estudos/Enem/assuntos/natureza/Química.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/Matemática.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 3596,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3649,
       "exportedPath": "estudos/Enem/assuntos/Matemática.html",
       "dependencies": []
     },
     "estudos/Enem/assuntos/Redação.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 25940,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1213,
       "exportedPath": "estudos/Enem/assuntos/Redação.html",
       "dependencies": []
     },
-    "estudos/Enem/0 - Ciclos de estudos.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 727,
-      "exportedPath": "estudos/Enem/0 - Ciclos de estudos.html",
-      "dependencies": []
-    },
     "estudos/Enem/Assuntos estudados.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 889,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1016,
       "exportedPath": "estudos/Enem/Assuntos estudados.html",
       "dependencies": []
     },
+    "estudos/Enem/Ciclos de estudos (atual).md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 711,
+      "exportedPath": "estudos/Enem/Ciclos de estudos (atual).html",
+      "dependencies": []
+    },
+    "estudos/Enem/Plano de estudos.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 5898,
+      "exportedPath": "estudos/Enem/Plano de estudos.html",
+      "dependencies": []
+    },
     "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 34673,
       "exportedPath": "estudos/leituras/Aprendendo a aprender/Aprendendo a aprender.html",
       "dependencies": []
     },
     "estudos/leituras/Aprendendo a aprender/Guia prático.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 4104,
       "exportedPath": "estudos/leituras/Aprendendo a aprender/Guia prático.html",
       "dependencies": []
     },
     "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 6144,
       "exportedPath": "estudos/leituras/Hábitos atômicos/1. Criar bons hábitos.html",
       "dependencies": []
     },
     "estudos/leituras/Hábitos atômicos/2. Parar maus hábitos.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 3374,
       "exportedPath": "estudos/leituras/Hábitos atômicos/2. Parar maus hábitos.html",
       "dependencies": []
     },
     "estudos/leituras/Hábitos atômicos/3. Destacar-se.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 4917,
       "exportedPath": "estudos/leituras/Hábitos atômicos/3. Destacar-se.html",
       "dependencies": []
     },
     "estudos/leituras/Hábitos atômicos/Hábitos atômicos.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 12490,
       "exportedPath": "estudos/leituras/Hábitos atômicos/Hábitos atômicos.html",
       "dependencies": []
     },
     "estudos/leituras/Livros-lidos.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 744,
       "exportedPath": "estudos/leituras/Livros-lidos.html",
       "dependencies": []
     },
     "estudos/Detalhamento do guia.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 2629,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3476,
       "exportedPath": "estudos/Detalhamento do guia.html",
       "dependencies": []
     },
     "estudos/Guia de estudos.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 7408,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 7506,
       "exportedPath": "estudos/Guia de estudos.html",
       "dependencies": []
     },
     "rascunhos/biologia/1. Fundamentos da Biologia/1. 1. O que é Biologia.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 2278,
       "exportedPath": "rascunhos/biologia/1. Fundamentos da Biologia/1. 1. O que é Biologia.html",
       "dependencies": []
     },
     "rascunhos/biologia/9. Plantas e reino Plantae/9. 1. Partes das plantas.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 6407,
       "exportedPath": "rascunhos/biologia/9. Plantas e reino Plantae/9. 1. Partes das plantas.html",
       "dependencies": []
     },
     "rascunhos/biologia/13. Sistemas do corpo humano/13. 1. Partes do corpo.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 568,
       "exportedPath": "rascunhos/biologia/13. Sistemas do corpo humano/13. 1. Partes do corpo.html",
       "dependencies": []
     },
     "rascunhos/biologia/14. Ecologia/14. 1. Descarte de lixo.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 1228,
       "exportedPath": "rascunhos/biologia/14. Ecologia/14. 1. Descarte de lixo.html",
       "dependencies": []
     },
     "rascunhos/história/1. Pré-história.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 1980,
       "exportedPath": "rascunhos/história/1. Pré-história.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/1. Números/1. 1. Como funcionam números.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/1. Números/1. 1. Como contar.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 1173,
-      "exportedPath": "rascunhos/matemática 1/1. Números/1. 1. Como funcionam números.html",
+      "exportedPath": "rascunhos/matemática/1. Números/1. 1. Como contar.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/1. Números/1. 2. Comparando valores.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 320,
-      "exportedPath": "rascunhos/matemática 1/1. Números/1. 2. Comparando valores.html",
+    "rascunhos/matemática/1. Números/1. 2. Comparando valores.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 2417,
+      "exportedPath": "rascunhos/matemática/1. Números/1. 2. Comparando valores.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/2. Operações/2. 1. Adição.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 695,
-      "exportedPath": "rascunhos/matemática 1/2. Operações/2. 1. Adição.html",
+    "rascunhos/matemática/2. Operações/2. 1. Adição.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3178,
+      "exportedPath": "rascunhos/matemática/2. Operações/2. 1. Adição.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/2. Operações/2. 2. Subtração.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 325,
-      "exportedPath": "rascunhos/matemática 1/2. Operações/2. 2. Subtração.html",
+    "rascunhos/matemática/2. Operações/2. 2. Subtração.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3200,
+      "exportedPath": "rascunhos/matemática/2. Operações/2. 2. Subtração.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/3. Álgebra/3. 1. Reconhecendo padrões numéricos.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/3. Álgebra/3. 1. Reconhecendo padrões numéricos.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 1918,
-      "exportedPath": "rascunhos/matemática 1/3. Álgebra/3. 1. Reconhecendo padrões numéricos.html",
+      "exportedPath": "rascunhos/matemática/3. Álgebra/3. 1. Reconhecendo padrões numéricos.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/4. Geometria/4. 1. Reconhecendo formas.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 2615,
-      "exportedPath": "rascunhos/matemática 1/4. Geometria/4. 1. Reconhecendo formas.html",
+      "exportedPath": "rascunhos/matemática/4. Geometria/4. 1. Reconhecendo formas planas.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/5. Grandezas e medidas/5. 1. Tamanhos.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/4. Geometria/4. 2. Reconhecendo Formas Espaciais.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 153,
+      "exportedPath": "rascunhos/matemática/4. Geometria/4. 2. Reconhecendo Formas Espaciais.html",
+      "dependencies": []
+    },
+    "rascunhos/matemática/5. Grandezas e medidas/5. 1. Tamanhos.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 143,
-      "exportedPath": "rascunhos/matemática 1/5. Grandezas e medidas/5. 1. Tamanhos.html",
+      "exportedPath": "rascunhos/matemática/5. Grandezas e medidas/5. 1. Tamanhos.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/5. Grandezas e medidas/5. 2. Medidas de tempo.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/5. Grandezas e medidas/5. 2. Medidas de tempo.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 194,
-      "exportedPath": "rascunhos/matemática 1/5. Grandezas e medidas/5. 2. Medidas de tempo.html",
+      "exportedPath": "rascunhos/matemática/5. Grandezas e medidas/5. 2. Medidas de tempo.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 1. Gráfico de barras.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 1. Gráfico de barras.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 3212,
-      "exportedPath": "rascunhos/matemática 1/6. Probabilidade e estatística/6. 1. Gráfico de barras.html",
+      "exportedPath": "rascunhos/matemática/6. Probabilidade e estatística/6. 1. Gráfico de barras.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 2. Tabelas.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 2. Tabelas.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 2081,
-      "exportedPath": "rascunhos/matemática 1/6. Probabilidade e estatística/6. 2. Tabelas.html",
+      "exportedPath": "rascunhos/matemática/6. Probabilidade e estatística/6. 2. Tabelas.html",
       "dependencies": []
     },
-    "rascunhos/matemática 1/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md": {
-      "modifiedTime": 1728784117947,
+    "rascunhos/matemática/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md": {
+      "modifiedTime": 1730142815896,
       "sourceSize": 1039,
-      "exportedPath": "rascunhos/matemática 1/6. Probabilidade e estatística/6. 3. Eventos aleatórios.html",
+      "exportedPath": "rascunhos/matemática/6. Probabilidade e estatística/6. 3. Eventos aleatórios.html",
+      "dependencies": []
+    },
+    "rascunhos/matemática/Observação sobre matemática básica.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 2130,
+      "exportedPath": "rascunhos/matemática/Observação sobre matemática básica.html",
+      "dependencies": []
+    },
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Rascunho.jpg": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3704284,
+      "exportedPath": "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Rascunho.jpg",
+      "dependencies": []
+    },
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Redação (não corrigida).png": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 727160,
+      "exportedPath": "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Redação (não corrigida).png",
+      "dependencies": []
+    },
+    "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Tema e texto de apoio.pdf": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3770318,
+      "exportedPath": "rascunhos/redação/Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/Tema e texto de apoio.pdf",
+      "dependencies": []
+    },
+    "rascunhos/redação/Redações feitas/folha_redacao.pdf": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 749963,
+      "exportedPath": "rascunhos/redação/Redações feitas/folha_redacao.pdf",
       "dependencies": []
     },
     "rascunhos/redação/1. O que é uma redação Enem.md": {
-      "modifiedTime": 1728784117947,
-      "sourceSize": 1926,
+      "modifiedTime": 1730142815896,
+      "sourceSize": 845,
       "exportedPath": "rascunhos/redação/1. O que é uma redação Enem.html",
       "dependencies": []
     },
     "rascunhos/redação/2. Competências da redação.md": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 3328,
       "exportedPath": "rascunhos/redação/2. Competências da redação.html",
       "dependencies": []
     },
+    "rascunhos/redação/3. Como fazer uma redação.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 228,
+      "exportedPath": "rascunhos/redação/3. Como fazer uma redação.html",
+      "dependencies": []
+    },
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1119,
+      "exportedPath": "rascunhos/sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.html",
+      "dependencies": []
+    },
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 2948,
+      "exportedPath": "rascunhos/sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.html",
+      "dependencies": []
+    },
+    "rascunhos/sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 2744,
+      "exportedPath": "rascunhos/sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.html",
+      "dependencies": []
+    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1728784117947,
+      "modifiedTime": 1730142815896,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1730142815896,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
