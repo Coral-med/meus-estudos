@@ -1,6 +1,6 @@
 {
   "vaultName": "Meu-caderno",
-  "lastExport": 1733449314760,
+  "lastExport": 1736605661600,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -10,6 +10,7 @@
     "assets/Estudos/Leituras/Aprendendo a aprender/Metáfora_neurônio.png",
     "assets/Notas/Humanas/Geografia/Rosa dos ventos (inglês).png",
     "assets/Notas/Humanas/Geografia/Rosa dos ventos (português).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/1. Números/1. 4. Conjuntos numéricos/Conjuntos.png",
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/1. Base da adição.png",
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/2. Adição de círculos e quadrados (1).png",
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/3. Adição de círculos e quadrados (2).png",
@@ -50,32 +51,54 @@
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4000div5).png",
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4040div8).png",
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Quociente (828div4).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Características dos polígonos.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Polígonos comuns.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Reta.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Segmento de reta.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Círculo.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Elipse.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Losango.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Quadrado.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Retângulo.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Trapézio.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Triângulo.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Bloco retangular.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cilindro.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cone.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cubo.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Esfera.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide planificada.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (diagonal).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (horizontal).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (vertical).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/Exemplo_referencial.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png",
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/Dividendo menor que o Divisor (3div5).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 1).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 2).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 3).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Casas de palitos.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_1 (x ao 750).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_2 (750 ao x).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Características dos polígonos.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Eixo de simetria (círculo_exemplo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Polígonos comuns.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Reta.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Segmento de reta.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Bloco retangular.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cilindro.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cone.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cubo.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Esfera.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide planificada.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (diagonal).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (horizontal).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (vertical).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/Exemplo_referencial.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas paralelas.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas perpendiculares.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas transversais.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo completo (círculo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo côncavo (setor-circular).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo do obtuso (pentagono).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo raso (semi-circulo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos agudo (triângulo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos do reto (quadrado).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Como ver ângulos (quadrado_exemplo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Comparando ângulos.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Nomeando ângulos (exemplo).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/O que é um ângulo.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Por que nomear ângulos dessa forma.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Círculo.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Elipse.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Losango.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Quadrado.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Retângulo.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Trapézio.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Triângulo.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png",
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png",
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 1.png",
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 2.png",
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 3.png",
@@ -110,52 +133,63 @@
     "Estudos/Leituras/Hábitos atômicos/Hábitos atômicos - Resumo geral.md",
     "Estudos/Leituras/Livros-lidos.md",
     "Estudos/Detalhamento do guia.md",
-    "Estudos/Dicas por matéria.md",
     "Estudos/Guia de estudos.md",
-    "Notas/anotações paradas/Geografia/1. Astronomia e cartografia/1. 1. Movimentos da Terra - Rotação.md",
-    "Notas/anotações paradas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.md",
-    "Notas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.md",
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md",
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md",
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md",
+    "Notas/Anotações paradas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.md",
+    "Notas/Anotações paradas/Humanas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.md",
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md",
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md",
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md",
+    "Notas/Matemática e Natureza/Biologia/Guia de estudos para Biologia.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 1. Sistema de numeração decimal.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 2. Comparando valores.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 3. Frações.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 4. Conjuntos numéricos.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 1. Adição.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 2. Subtração.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 3. Multiplicação.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 4. Divisão.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 5. Operações com frações.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 6. Propriedades das operações.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Padrões numéricos.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Sequências numéricas.md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 2. Igualdade (=).md",
     "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 3. Padrões aritméticos.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 1. Introdução à geometria.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 2. Introdução às formas planas.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 3. Introdução às formas espaciais.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 4. Direção e sentido.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Grandezas.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Medidas de tempo.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 1. Gráfico de barras.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 2. Tabelas.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 4. Combinações.md",
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/rascunho.md",
-    "Notas/Redação/1. Introdução à redação Enem/1. 1. O que é uma redação Enem.md",
-    "Notas/Redação/1. Introdução à redação Enem/1. 2. Competências da redação.md",
-    "Notas/Redação/1. Introdução à redação Enem/1. 3. Estrutura da redação.md",
-    "Notas/Redação/1. Introdução à redação Enem/Repertórios.md",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png",
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.md",
-    "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.md",
-    "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.md",
-    "Notas/Redação/2. Redações feitas/folha_redacao (Ferretto).pdf",
-    "Notas/Redação/Como estudar redação.md",
-    "Notas/Redação/Repertórios.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 4. Introdução à equações.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 5. Operações inversas em equações.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 1. Introdução à geometria.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 2. Introdução às formas planas.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 3. Direção e sentido.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 4. Detalhando retas.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 5. Ângulos.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Geometria espacial/5. 1. Introdução às formas espaciais.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 1. Medidas de tempo.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 2. Grandezas.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 1. Gráfico de barras.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 2. Tabelas.md",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/Guia de estudos para matemática.md",
+    "Notas/Redação/1. Redação Enem/1. 1. O que é uma redação Enem.md",
+    "Notas/Redação/1. Redação Enem/1. 2. Competências da redação.md",
+    "Notas/Redação/1. Redação Enem/1. 3. Estruturas da redação.md",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png",
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.md",
+    "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.md",
+    "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.md",
+    "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/2. 3. 1. Textos de apoio.pdf",
+    "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/3. 2. Rascunho.md",
+    "Notas/Redação/3. Repertórios/3. 1. Repertórios coringa.md",
+    "Notas/Redação/3. Repertórios/3. 2. Meio ambiente.md",
+    "Notas/Redação/3. Repertórios/3. 3. Questões sociais.md",
+    "Notas/Redação/3. Repertórios/3. 4. Saúde e ciência.md",
+    "Notas/Redação/3. Repertórios/3. 5. Arte e cultura.md",
+    "Notas/Redação/3. Repertórios/3. 6. Direito e cidadania.md",
+    "Notas/Redação/3. Repertórios/3. 7. Educação.md",
+    "Notas/Redação/3. Repertórios/3. 8. Tecnologia.md",
+    "Notas/Redação/3. Repertórios/3. 9. Economia.md",
+    "Notas/Redação/Folha de redacão (Ferretto).pdf",
+    "Notas/Redação/Guia de estudos para Redação.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -235,1123 +269,1327 @@
   ],
   "fileInfo": {
     "assets/Estudos/Leituras/Aprendendo a aprender/Exemplo_neurônio.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 63293,
       "exportedPath": "assets/Estudos/Leituras/Aprendendo a aprender/Exemplo_neurônio.png",
       "dependencies": []
     },
     "assets/Estudos/Leituras/Aprendendo a aprender/Metáfora_neurônio.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 58107,
       "exportedPath": "assets/Estudos/Leituras/Aprendendo a aprender/Metáfora_neurônio.png",
       "dependencies": []
     },
     "assets/Notas/Humanas/Geografia/Rosa dos ventos (inglês).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 25171,
       "exportedPath": "assets/Notas/Humanas/Geografia/Rosa dos ventos (inglês).png",
       "dependencies": []
     },
     "assets/Notas/Humanas/Geografia/Rosa dos ventos (português).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 32050,
       "exportedPath": "assets/Notas/Humanas/Geografia/Rosa dos ventos (português).png",
       "dependencies": []
     },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/1. Números/1. 4. Conjuntos numéricos/Conjuntos.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 17864,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/1. Números/1. 4. Conjuntos numéricos/Conjuntos.png",
+      "dependencies": []
+    },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/1. Base da adição.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 41641,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/1. Base da adição.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/2. Adição de círculos e quadrados (1).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 10048,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/2. Adição de círculos e quadrados (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/3. Adição de círculos e quadrados (2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 15174,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/3. Adição de círculos e quadrados (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/4. Somando figuras (Ordem irrelevante) (1).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 19892,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/4. Somando figuras (Ordem irrelevante) (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/5. Somando figuras (Ordem irrelevante) (2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 22358,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/5. Somando figuras (Ordem irrelevante) (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/6. Adição por reagrupamento.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 37399,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 1. Adição/6. Adição por reagrupamento.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/1. Base da subtração.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 20468,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/1. Base da subtração.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/2. Valores visualmente.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 13369,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/2. Valores visualmente.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/3. Exemplo_Subtração visual (1).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 14252,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/3. Exemplo_Subtração visual (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/4. Exemplo_Subtração visual (2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 15092,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/4. Exemplo_Subtração visual (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/5. Exemplo_subtração visual (3).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 16074,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/5. Exemplo_subtração visual (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/6. Subtração por reagrupamento.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 25284,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 2. Subtração/6. Subtração por reagrupamento.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/Base da multiplicação.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 20433,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/Base da multiplicação.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/exemplo_23times9.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 10699,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/exemplo_23times9.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/Tabuada (multiplicação).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 456045,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 3. Multiplicação/Tabuada (multiplicação).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/conta montada (22div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3282,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/conta montada (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/fração.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3613,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/fração.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/simbolo da divisão.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2763,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/simbolo da divisão.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/conta montada (20div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1621,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/conta montada (20div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/resultado (20div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2083,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/resultado (20div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/conta montada (22div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1576,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/conta montada (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/resultado (22div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3469,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/resultado (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/Partes da divisão.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 8419,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/1. Base da divisão/Partes da divisão.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (1).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1910,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3139,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (3).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4264,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4721,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (5).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2422,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (5).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (6).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 7170,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (6).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (7).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 6975,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (7).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (1).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1291,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2564,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (3).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2987,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4724,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com números grandes (9497div16).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 8992,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com números grandes (9497div16).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Dividendo (12,6div3).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4839,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Dividendo (12,6div3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Divisor (7div0,2).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 12116,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Divisor (7div0,2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4000div5).png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 9093,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 5426,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4000div5).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4040div8).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 12259,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4040div8).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Quociente (828div4).png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 5379,
       "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/4. Outros casos/Divisão com zeros no Quociente (828div4).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Características dos polígonos.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/Dividendo menor que o Divisor (3div5).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 8545,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 4. Divisão/Dividendo menor que o Divisor (3div5).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 1).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 8742,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 1).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 2).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 7340,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 2).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 3).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3558,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/2. Operações fundamentais/2. 5. Operações com frações/explicando divisão de frações (parte 3).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Casas de palitos.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 20709,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Casas de palitos.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_1 (x ao 750).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 8934,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_1 (x ao 750).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_2 (750 ao x).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 14842,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/3. Álgebra/Reta numérica_2 (750 ao x).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Características dos polígonos.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 18686,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Características dos polígonos.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Características dos polígonos.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Polígonos comuns.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Eixo de simetria (círculo_exemplo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4439,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Eixo de simetria (círculo_exemplo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Polígonos comuns.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 15591,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Polígonos comuns.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Polígonos comuns.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Reta.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Reta.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 5489,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Reta.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Reta.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Segmento de reta.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Segmento de reta.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 6630,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 1. Introdução a geometria/Segmento de reta.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 1. Introdução a geometria/Segmento de reta.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Círculo.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1927,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Círculo.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Elipse.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1678,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Elipse.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Losango.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2409,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Losango.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Quadrado.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2164,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Quadrado.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Retângulo.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2195,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Retângulo.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Trapézio.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2007,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Trapézio.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Triângulo.png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2352,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 2. Introdução às formas planas/Triângulo.png",
-      "dependencies": []
-    },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Bloco retangular.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Bloco retangular.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 74871,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Bloco retangular.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Bloco retangular.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cilindro.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cilindro.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 31322,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cilindro.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cilindro.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cone.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cone.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 47874,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cone.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cone.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cubo.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cubo.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 60217,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Cubo.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Cubo.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Esfera.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Esfera.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 81564,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Esfera.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Esfera.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 86508,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide planificada.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide planificada.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 63937,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 3. Introdução às formas espaciais/Pirâmide planificada.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide planificada.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (diagonal).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (diagonal).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 6293,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (diagonal).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (diagonal).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (horizontal).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (horizontal).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 3580,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (horizontal).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (horizontal).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (vertical).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (vertical).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 6729,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/direção e sentido (vertical).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (vertical).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/Exemplo_referencial.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/Exemplo_referencial.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 11186,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria/4. 4. Direção e sentido/Exemplo_referencial.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 3. Direção e sentido/Exemplo_referencial.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas paralelas.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2100,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas paralelas.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas perpendiculares.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1310,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas perpendiculares.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas transversais.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 5277,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 4. Detalhando retas/Retas transversais.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo completo (círculo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 5096,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo completo (círculo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo côncavo (setor-circular).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4491,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo côncavo (setor-circular).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo do obtuso (pentagono).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 6488,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo do obtuso (pentagono).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo raso (semi-circulo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3141,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo raso (semi-circulo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos agudo (triângulo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 5786,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos agudo (triângulo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos do reto (quadrado).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4459,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos do reto (quadrado).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Como ver ângulos (quadrado_exemplo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3734,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Como ver ângulos (quadrado_exemplo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Comparando ângulos.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 8329,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Comparando ângulos.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Nomeando ângulos (exemplo).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3292,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Nomeando ângulos (exemplo).png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/O que é um ângulo.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 16802,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/O que é um ângulo.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Por que nomear ângulos dessa forma.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 5613,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/4. Geometria plana/4. 5. Ângulos/Por que nomear ângulos dessa forma.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Círculo.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1927,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Círculo.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Elipse.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1678,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Elipse.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Losango.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2409,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Losango.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Quadrado.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2164,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Quadrado.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Retângulo.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2195,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Retângulo.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Trapézio.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2007,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Trapézio.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Triângulo.png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2352,
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Geometria espacial/4. 2. Introdução às formas planas/Triângulo.png",
+      "dependencies": []
+    },
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 13929,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/5. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 48752,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 41431,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png",
       "dependencies": []
     },
-    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png": {
-      "modifiedTime": 1733449314760,
+    "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 45145,
-      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/6. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/Matemática (fundamental)/7. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 1.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 38866,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 1.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 2.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 55766,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 2.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 3.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 109391,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 3.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 4.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 136547,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 4.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 5.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 132736,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 5.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 6.png": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 172234,
       "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 6.png",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Humanas/1.1 História geral.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1053,
       "exportedPath": "Estudos/Enem/Assuntos/Humanas/1.1 História geral.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Humanas/1.2 História do Brasil.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1546,
       "exportedPath": "Estudos/Enem/Assuntos/Humanas/1.2 História do Brasil.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Humanas/1.3 História da arte.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1310,
       "exportedPath": "Estudos/Enem/Assuntos/Humanas/1.3 História da arte.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Humanas/Filosofia e sociologia.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1822,
       "exportedPath": "Estudos/Enem/Assuntos/Humanas/Filosofia e sociologia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Humanas/Geografia.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3123,
       "exportedPath": "Estudos/Enem/Assuntos/Humanas/Geografia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Linguagem/1. Gramatica.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1106,
       "exportedPath": "Estudos/Enem/Assuntos/Linguagem/1. Gramatica.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Linguagem/2. Interpretação de texto.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1462,
       "exportedPath": "Estudos/Enem/Assuntos/Linguagem/2. Interpretação de texto.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Linguagem/3. Literatura.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2444,
       "exportedPath": "Estudos/Enem/Assuntos/Linguagem/3. Literatura.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Natureza/Biologia.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3684,
       "exportedPath": "Estudos/Enem/Assuntos/Natureza/Biologia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Natureza/Física 1.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1857,
       "exportedPath": "Estudos/Enem/Assuntos/Natureza/Física 1.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Natureza/Física 2.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3162,
       "exportedPath": "Estudos/Enem/Assuntos/Natureza/Física 2.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Natureza/Química.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 5205,
       "exportedPath": "Estudos/Enem/Assuntos/Natureza/Química.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Matemática.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3245,
       "exportedPath": "Estudos/Enem/Assuntos/Matemática.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/Redação.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1452,
       "exportedPath": "Estudos/Enem/Assuntos/Redação.html",
       "dependencies": []
     },
     "Estudos/Enem/Provas feitas/Enem 2024.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1151,
       "exportedPath": "Estudos/Enem/Provas feitas/Enem 2024.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos estudados.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1016,
       "exportedPath": "Estudos/Enem/Assuntos estudados.html",
       "dependencies": []
     },
     "Estudos/Enem/Ciclos de estudos (atual).md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 348,
       "exportedPath": "Estudos/Enem/Ciclos de estudos (atual).html",
       "dependencies": []
     },
     "Estudos/Enem/Plano de estudos.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2582,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2824,
       "exportedPath": "Estudos/Enem/Plano de estudos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Aprendendo a aprender/Aprendendo a aprender.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 34681,
       "exportedPath": "Estudos/Leituras/Aprendendo a aprender/Aprendendo a aprender.html",
       "dependencies": []
     },
     "Estudos/Leituras/Aprendendo a aprender/Guia prático.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4104,
       "exportedPath": "Estudos/Leituras/Aprendendo a aprender/Guia prático.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/Identidade/1. Hábitos semanais.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1026,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1017,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/Identidade/1. Hábitos semanais.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/Identidade/2. Minha identidade.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2962,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/Identidade/2. Minha identidade.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/1. Criar bons hábitos.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3562,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/1. Criar bons hábitos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/2. Parar maus hábitos.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3654,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/2. Parar maus hábitos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/3. Destacar-se.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4564,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/3. Destacar-se.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/Hábitos atômicos - Resumo geral.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4590,
       "exportedPath": "Estudos/Leituras/Hábitos atômicos/Hábitos atômicos - Resumo geral.html",
       "dependencies": []
     },
     "Estudos/Leituras/Livros-lidos.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 807,
       "exportedPath": "Estudos/Leituras/Livros-lidos.html",
       "dependencies": []
     },
     "Estudos/Detalhamento do guia.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4107,
       "exportedPath": "Estudos/Detalhamento do guia.html",
       "dependencies": []
     },
-    "Estudos/Dicas por matéria.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 3642,
-      "exportedPath": "Estudos/Dicas por matéria.html",
-      "dependencies": []
-    },
     "Estudos/Guia de estudos.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3204,
       "exportedPath": "Estudos/Guia de estudos.html",
       "dependencies": []
     },
-    "Notas/anotações paradas/Geografia/1. Astronomia e cartografia/1. 1. Movimentos da Terra - Rotação.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1033,
-      "exportedPath": "Notas/anotações paradas/Geografia/1. Astronomia e cartografia/1. 1. Movimentos da Terra - Rotação.html",
-      "dependencies": []
-    },
-    "Notas/anotações paradas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1984,
-      "exportedPath": "Notas/anotações paradas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.html",
-      "dependencies": []
-    },
-    "Notas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Anotações paradas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 6643,
-      "exportedPath": "Notas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.html",
+      "exportedPath": "Notas/Anotações paradas/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.html",
       "dependencies": []
     },
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Anotações paradas/Humanas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1984,
+      "exportedPath": "Notas/Anotações paradas/Humanas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.html",
+      "dependencies": []
+    },
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 1119,
-      "exportedPath": "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.html",
+      "exportedPath": "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.html",
       "dependencies": []
     },
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 2948,
-      "exportedPath": "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.html",
+      "exportedPath": "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.html",
       "dependencies": []
     },
-    "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 2744,
-      "exportedPath": "Notas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.html",
+      "exportedPath": "Notas/Anotações paradas/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Biologia/Guia de estudos para Biologia.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1030,
+      "exportedPath": "Notas/Matemática e Natureza/Biologia/Guia de estudos para Biologia.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 1. Sistema de numeração decimal.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1967,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 1. Sistema de numeração decimal.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 2. Comparando valores.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2345,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 2. Comparando valores.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 3. Frações.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 4499,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 3. Frações.html",
       "dependencies": []
     },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 4. Conjuntos numéricos.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4487,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/1. Números/1. 4. Conjuntos numéricos.html",
+      "dependencies": []
+    },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 1. Adição.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 6122,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 1. Adição.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 2. Subtração.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 6270,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 2. Subtração.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 3. Multiplicação.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 11584,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 3. Multiplicação.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 4. Divisão.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 19306,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 19382,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 4. Divisão.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 5. Operações com frações.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 5306,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 7753,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 5. Operações com frações.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 6. Propriedades das operações.md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3548,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/2. Operações/2. 6. Propriedades das operações.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Padrões numéricos.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Sequências numéricas.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 3063,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Padrões numéricos.html",
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 1. Sequências numéricas.html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 2. Igualdade (=).md": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 2691,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 2. Igualdade (=).html",
       "dependencies": []
     },
     "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 3. Padrões aritméticos.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 0,
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2839,
       "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 3. Padrões aritméticos.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 1. Introdução à geometria.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 6407,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 1. Introdução à geometria.html",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 4. Introdução à equações.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3416,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 4. Introdução à equações.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 2. Introdução às formas planas.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 5. Operações inversas em equações.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4870,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/3. Álgebra/3. 5. Operações inversas em equações.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 1. Introdução à geometria.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 7133,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 1. Introdução à geometria.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 2. Introdução às formas planas.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 3961,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 2. Introdução às formas planas.html",
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 2. Introdução às formas planas.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 3. Introdução às formas espaciais.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2179,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 3. Introdução às formas espaciais.html",
-      "dependencies": []
-    },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 4. Direção e sentido.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 3. Direção e sentido.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 3040,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria/4. 4. Direção e sentido.html",
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 3. Direção e sentido.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Grandezas.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 0,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Grandezas.html",
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 4. Detalhando retas.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 673,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 4. Detalhando retas.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Medidas de tempo.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 5. Ângulos.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3865,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/4. Geometria plana/4. 5. Ângulos.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Geometria espacial/5. 1. Introdução às formas espaciais.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2294,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Geometria espacial/5. 1. Introdução às formas espaciais.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 1. Medidas de tempo.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 2258,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/5. Grandezas e medidas/5. 1. Medidas de tempo.html",
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 1. Medidas de tempo.html",
       "dependencies": []
     },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 1. Gráfico de barras.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 3212,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 1. Gráfico de barras.html",
-      "dependencies": []
-    },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 2. Tabelas.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2081,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 2. Tabelas.html",
-      "dependencies": []
-    },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 3. Eventos aleatórios.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1292,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 3. Eventos aleatórios.html",
-      "dependencies": []
-    },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 4. Combinações.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 215,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Probabilidade e estatística/6. 4. Combinações.html",
-      "dependencies": []
-    },
-    "Notas/Matemática e Natureza/Matemática (Fundamental)/rascunho.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 608,
-      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/rascunho.html",
-      "dependencies": []
-    },
-    "Notas/Redação/1. Introdução à redação Enem/1. 1. O que é uma redação Enem.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 845,
-      "exportedPath": "Notas/Redação/1. Introdução à redação Enem/1. 1. O que é uma redação Enem.html",
-      "dependencies": []
-    },
-    "Notas/Redação/1. Introdução à redação Enem/1. 2. Competências da redação.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2525,
-      "exportedPath": "Notas/Redação/1. Introdução à redação Enem/1. 2. Competências da redação.html",
-      "dependencies": []
-    },
-    "Notas/Redação/1. Introdução à redação Enem/1. 3. Estrutura da redação.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 4555,
-      "exportedPath": "Notas/Redação/1. Introdução à redação Enem/1. 3. Estrutura da redação.html",
-      "dependencies": []
-    },
-    "Notas/Redação/1. Introdução à redação Enem/Repertórios.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 249,
-      "exportedPath": "Notas/Redação/1. Introdução à redação Enem/Repertórios.html",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 3770318,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 3704284,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 727160,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 140152,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 883547,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2837,
-      "exportedPath": "Notas/Redação/2. Redações feitas/1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.html",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 587,
-      "exportedPath": "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.html",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 2345,
-      "exportedPath": "Notas/Redação/2. Redações feitas/2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.html",
-      "dependencies": []
-    },
-    "Notas/Redação/2. Redações feitas/folha_redacao (Ferretto).pdf": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 749963,
-      "exportedPath": "Notas/Redação/2. Redações feitas/folha_redacao (Ferretto).pdf",
-      "dependencies": []
-    },
-    "Notas/Redação/Como estudar redação.md": {
-      "modifiedTime": 1733449314760,
-      "sourceSize": 1952,
-      "exportedPath": "Notas/Redação/Como estudar redação.html",
-      "dependencies": []
-    },
-    "Notas/Redação/Repertórios.md": {
-      "modifiedTime": 1733449314760,
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 2. Grandezas.md": {
+      "modifiedTime": 1736605661600,
       "sourceSize": 0,
-      "exportedPath": "Notas/Redação/Repertórios.html",
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/6. Grandezas e medidas/6. 2. Grandezas.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 1. Gráfico de barras.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3212,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 1. Gráfico de barras.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 2. Tabelas.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2081,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/7. Probabilidade e estatística/7. 2. Tabelas.html",
+      "dependencies": []
+    },
+    "Notas/Matemática e Natureza/Matemática (Fundamental)/Guia de estudos para matemática.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 874,
+      "exportedPath": "Notas/Matemática e Natureza/Matemática (Fundamental)/Guia de estudos para matemática.html",
+      "dependencies": []
+    },
+    "Notas/Redação/1. Redação Enem/1. 1. O que é uma redação Enem.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 845,
+      "exportedPath": "Notas/Redação/1. Redação Enem/1. 1. O que é uma redação Enem.html",
+      "dependencies": []
+    },
+    "Notas/Redação/1. Redação Enem/1. 2. Competências da redação.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2384,
+      "exportedPath": "Notas/Redação/1. Redação Enem/1. 2. Competências da redação.html",
+      "dependencies": []
+    },
+    "Notas/Redação/1. Redação Enem/1. 3. Estruturas da redação.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 4565,
+      "exportedPath": "Notas/Redação/1. Redação Enem/1. 3. Estruturas da redação.html",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3770318,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3704284,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 727160,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 180515,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 883547,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2837,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.html",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 587,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.html",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 2353,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.html",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/2. 3. 1. Textos de apoio.pdf": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1830940,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/2. 3. 1. Textos de apoio.pdf",
+      "dependencies": []
+    },
+    "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/3. 2. Rascunho.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 3151,
+      "exportedPath": "Notas/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/3. 2. Rascunho.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 1. Repertórios coringa.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 231,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 1. Repertórios coringa.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 2. Meio ambiente.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 934,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 2. Meio ambiente.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 3. Questões sociais.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1040,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 3. Questões sociais.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 4. Saúde e ciência.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 790,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 4. Saúde e ciência.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 5. Arte e cultura.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 786,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 5. Arte e cultura.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 6. Direito e cidadania.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 765,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 6. Direito e cidadania.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 7. Educação.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 691,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 7. Educação.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 8. Tecnologia.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 834,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 8. Tecnologia.html",
+      "dependencies": []
+    },
+    "Notas/Redação/3. Repertórios/3. 9. Economia.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 792,
+      "exportedPath": "Notas/Redação/3. Repertórios/3. 9. Economia.html",
+      "dependencies": []
+    },
+    "Notas/Redação/Folha de redacão (Ferretto).pdf": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 749963,
+      "exportedPath": "Notas/Redação/Folha de redacão (Ferretto).pdf",
+      "dependencies": []
+    },
+    "Notas/Redação/Guia de estudos para Redação.md": {
+      "modifiedTime": 1736605661600,
+      "sourceSize": 1966,
+      "exportedPath": "Notas/Redação/Guia de estudos para Redação.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1733449314760,
+      "modifiedTime": 1736605661600,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
