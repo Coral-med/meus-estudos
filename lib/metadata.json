@@ -1,6 +1,6 @@
 {
   "vaultName": "Meu-caderno",
-  "lastExport": 1741221338136,
+  "lastExport": 1741222300233,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": false,
@@ -215,107 +215,6 @@
     "Estudos/1. Pré-estudos.md",
     "Estudos/2. Guia de estudos.md",
     "Estudos/3. Guia de provas.md",
-    "lib/media/reta-com-números-negativos-(1).png",
-    "lib/media/reta-com-números-negativos-(2).png",
-    "lib/media/conjuntos.png",
-    "lib/media/1.-base-da-adição.png",
-    "lib/media/2.-adição-de-círculos-e-quadrados-(1).png",
-    "lib/media/3.-adição-de-círculos-e-quadrados-(2).png",
-    "lib/media/4.-somando-figuras-(ordem-irrelevante)-(1).png",
-    "lib/media/5.-somando-figuras-(ordem-irrelevante)-(2).png",
-    "lib/media/6.-adição-por-reagrupamento.png",
-    "lib/media/1.-base-da-subtração.png",
-    "lib/media/2.-valores-visualmente.png",
-    "lib/media/3.-exemplo_subtração-visual-(1).png",
-    "lib/media/4.-exemplo_subtração-visual-(2).png",
-    "lib/media/5.-exemplo_subtração-visual-(3).png",
-    "lib/media/6.-subtração-por-reagrupamento.png",
-    "lib/media/base-da-multiplicação.png",
-    "lib/media/exemplo_23times9.png",
-    "lib/media/tabuada-(multiplicação).png",
-    "lib/media/simbolo-da-divisão.png",
-    "lib/media/fração.png",
-    "lib/media/conta-montada-(22div4).png",
-    "lib/media/conta-montada-(20div4).png",
-    "lib/media/resultado-(20div4).png",
-    "lib/media/resultado-(22div4).png",
-    "lib/media/partes-da-divisão.png",
-    "lib/media/exemplo_156div12-(1).png",
-    "lib/media/exemplo_156div12-(2).png",
-    "lib/media/exemplo_156div12-(3).png",
-    "lib/media/exemplo_156div12-(4).png",
-    "lib/media/exemplo_156div12-(5).png",
-    "lib/media/exemplo_156div12-(6).png",
-    "lib/media/exemplo_156div12-(7).png",
-    "lib/media/exemplo_10div4-(1).png",
-    "lib/media/exemplo_10div4-(2).png",
-    "lib/media/exemplo_10div4-(3).png",
-    "lib/media/exemplo_10div4-(4).png",
-    "lib/media/divisão-com-números-grandes-(9497div16).png",
-    "lib/media/divisão-com-zeros-no-dividendo-(4000div5).png",
-    "lib/media/divisão-com-zeros-no-dividendo-(4040div8).png",
-    "lib/media/divisão-com-zeros-no-quociente-(828div4).png",
-    "lib/media/divisão-com-vírgula-no-dividendo-(12,6div3).png",
-    "lib/media/divisão-com-vírgula-no-divisor-(7div0,2).png",
-    "lib/media/dividendo-menor-que-o-divisor-(3div5).png",
-    "lib/media/explicando-divisão-de-frações-(parte-1).png",
-    "lib/media/explicando-divisão-de-frações-(parte-2).png",
-    "lib/media/explicando-divisão-de-frações-(parte-3).png",
-    "lib/media/casas-de-palitos.png",
-    "lib/media/reta.png",
-    "lib/media/segmento-de-reta.png",
-    "lib/media/características-dos-polígonos.png",
-    "lib/media/polígonos-comuns.png",
-    "lib/media/eixo-de-simetria-(círculo_exemplo).png",
-    "lib/media/exemplo_referencial.png",
-    "lib/media/direção-e-sentido-(horizontal).png",
-    "lib/media/direção-e-sentido-(vertical).png",
-    "lib/media/direção-e-sentido-(diagonal).png",
-    "lib/media/retas-paralelas.png",
-    "lib/media/retas-perpendiculares.png",
-    "lib/media/retas-transversais.png",
-    "lib/media/nomeando-ângulos-(exemplo).png",
-    "lib/media/por-que-nomear-ângulos-dessa-forma.png",
-    "lib/media/o-que-é-um-ângulo.png",
-    "lib/media/como-ver-ângulos-(quadrado_exemplo).png",
-    "lib/media/comparando-ângulos.png",
-    "lib/media/ângulos-agudo-(triângulo).png",
-    "lib/media/ângulos-do-reto-(quadrado).png",
-    "lib/media/ângulo-do-obtuso-(pentagono).png",
-    "lib/media/ângulo-raso-(semi-circulo).png",
-    "lib/media/ângulo-côncavo-(setor-circular).png",
-    "lib/media/ângulo-completo-(círculo).png",
-    "lib/media/perimetro-retangulo-(incognita).png",
-    "lib/media/figura-exemplo_1.png",
-    "lib/media/figura-exemplo_2.png",
-    "lib/media/plano-cartesiano.png",
-    "lib/media/exemplo-de-coordenada-(4,-3).png",
-    "lib/media/três-relógios.png",
-    "lib/media/gráfico-de-barras-(hospital).png",
-    "lib/media/tabela-(linha,-coluna-e-célula).png",
-    "lib/media/tabela-(título).png",
-    "lib/media/texto-motivador-1.png",
-    "lib/media/texto-motivador-2.png",
-    "lib/media/texto-motivador-3.png",
-    "lib/media/texto-motivador-4.png",
-    "lib/media/texto-motivador-5.png",
-    "lib/media/texto-motivador-6.png",
-    "lib/media/1.-incidência-matemática.png",
-    "lib/media/2.-incidência-física.png",
-    "lib/media/3.-incidência-química.png",
-    "lib/media/4.-incidência-biologia.png",
-    "lib/media/5.-incidência-história.png",
-    "lib/media/6.-incidência-geografia.png",
-    "lib/media/7.-incidência-filosofia.png",
-    "lib/media/8.-incidência-sociologia.png",
-    "lib/media/9.-incidência-língua-portuguesa.png",
-    "lib/media/10.-incidência-literatura.png",
-    "lib/media/11.-incidência-inglês.png",
-    "lib/media/12.-incidência-espanhol.png",
-    "lib/media/nota-enem-(2024).png",
-    "lib/media/exemplo_neurônio.png",
-    "lib/media/metáfora_neurônio.png",
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -330,45 +229,30 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
-    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -383,2324 +267,1498 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff",
-    "lib/html/file-tree.html",
-    "lib/scripts/webpage.js",
-    "lib/scripts/graph-view.js",
-    "lib/scripts/graph-wasm.js",
-    "lib/scripts/graph-render-worker.js",
-    "lib/scripts/tinycolor.js",
-    "lib/scripts/pixi.js",
-    "lib/scripts/minisearch.js",
-    "lib/media/favicon.png",
-    "lib/scripts/graph-data.js",
-    "lib/styles/obsidian.css",
-    "lib/styles/theme.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/1. incidência matemática.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 207340,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/1.-incidência-matemática.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/1. incidência matemática.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/2. incidência física.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 288379,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/2.-incidência-física.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/2. incidência física.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/3. incidência química.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 394774,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/3.-incidência-química.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/3. incidência química.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/4. incidência biologia.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 108960,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/4.-incidência-biologia.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/4. incidência biologia.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/5. incidência história.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 51087,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/5.-incidência-história.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/5. incidência história.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/6. incidência geografia.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 172636,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/6.-incidência-geografia.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/6. incidência geografia.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/7. incidência filosofia.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 271838,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/7.-incidência-filosofia.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/7. incidência filosofia.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/8. incidência sociologia.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 474590,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/8.-incidência-sociologia.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/8. incidência sociologia.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/9. incidência língua portuguesa.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 193337,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/9.-incidência-língua-portuguesa.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/9. incidência língua portuguesa.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/10. incidência literatura.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 170801,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/10.-incidência-literatura.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/10. incidência literatura.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/11. incidência inglês.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 20643,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/11.-incidência-inglês.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/11. incidência inglês.png",
       "dependencies": []
     },
     "assets/Estudos/Enem/Assuntos/Incidência de assuntos/12. incidência espanhol.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 20368,
-      "exportedPath": "assets/estudos/enem/assuntos/incidência-de-assuntos/12.-incidência-espanhol.png",
+      "exportedPath": "assets/Estudos/Enem/Assuntos/Incidência de assuntos/12. incidência espanhol.png",
       "dependencies": []
     },
     "assets/Estudos/Leituras/Aprendendo a aprender/Exemplo_neurônio.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 63293,
-      "exportedPath": "assets/estudos/leituras/aprendendo-a-aprender/exemplo_neurônio.png",
+      "exportedPath": "assets/Estudos/Leituras/Aprendendo a aprender/Exemplo_neurônio.png",
       "dependencies": []
     },
     "assets/Estudos/Leituras/Aprendendo a aprender/Metáfora_neurônio.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 58107,
-      "exportedPath": "assets/estudos/leituras/aprendendo-a-aprender/metáfora_neurônio.png",
+      "exportedPath": "assets/Estudos/Leituras/Aprendendo a aprender/Metáfora_neurônio.png",
       "dependencies": []
     },
     "assets/Estudos/Provas feitas/Nota Enem (2024).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 21731,
-      "exportedPath": "assets/estudos/provas-feitas/nota-enem-(2024).png",
+      "exportedPath": "assets/Estudos/Provas feitas/Nota Enem (2024).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 2. Números negativos/reta com números negativos (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3138,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/1.-números/1.-2.-números-negativos/reta-com-números-negativos-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 2. Números negativos/reta com números negativos (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 2. Números negativos/reta com números negativos (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4603,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/1.-números/1.-2.-números-negativos/reta-com-números-negativos-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 2. Números negativos/reta com números negativos (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 4. Conjuntos numéricos/Conjuntos.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 17864,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/1.-números/1.-4.-conjuntos-numéricos/conjuntos.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/1. Números/1. 4. Conjuntos numéricos/Conjuntos.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/1. Base da adição.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 41641,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/1.-base-da-adição.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/1. Base da adição.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/2. Adição de círculos e quadrados (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 10048,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/2.-adição-de-círculos-e-quadrados-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/2. Adição de círculos e quadrados (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/3. Adição de círculos e quadrados (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 15174,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/3.-adição-de-círculos-e-quadrados-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/3. Adição de círculos e quadrados (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/4. Somando figuras (Ordem irrelevante) (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 19892,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/4.-somando-figuras-(ordem-irrelevante)-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/4. Somando figuras (Ordem irrelevante) (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/5. Somando figuras (Ordem irrelevante) (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 22358,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/5.-somando-figuras-(ordem-irrelevante)-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/5. Somando figuras (Ordem irrelevante) (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/6. Adição por reagrupamento.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 37399,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-1.-adição/6.-adição-por-reagrupamento.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 1. Adição/6. Adição por reagrupamento.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/1. Base da subtração.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 20468,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/1.-base-da-subtração.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/1. Base da subtração.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/2. Valores visualmente.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 13369,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/2.-valores-visualmente.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/2. Valores visualmente.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/3. Exemplo_Subtração visual (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 14252,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/3.-exemplo_subtração-visual-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/3. Exemplo_Subtração visual (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/4. Exemplo_Subtração visual (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 15092,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/4.-exemplo_subtração-visual-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/4. Exemplo_Subtração visual (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/5. Exemplo_subtração visual (3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 16074,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/5.-exemplo_subtração-visual-(3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/5. Exemplo_subtração visual (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/6. Subtração por reagrupamento.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 25284,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-2.-subtração/6.-subtração-por-reagrupamento.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 2. Subtração/6. Subtração por reagrupamento.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/Base da multiplicação.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 20433,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-3.-multiplicação/base-da-multiplicação.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/Base da multiplicação.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/exemplo_23times9.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 10699,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-3.-multiplicação/exemplo_23times9.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/exemplo_23times9.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/Tabuada (multiplicação).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 456045,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-3.-multiplicação/tabuada-(multiplicação).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 3. Multiplicação/Tabuada (multiplicação).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/conta montada (22div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3282,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-1.-reconhecendo-divisões/conta-montada-(22div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/conta montada (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/fração.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3613,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-1.-reconhecendo-divisões/fração.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/fração.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/simbolo da divisão.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2763,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-1.-reconhecendo-divisões/simbolo-da-divisão.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 1. Reconhecendo divisões/simbolo da divisão.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/conta montada (20div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1621,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-2.-divisão-sem-restos/conta-montada-(20div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/conta montada (20div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/resultado (20div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2083,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-2.-divisão-sem-restos/resultado-(20div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 2. Divisão sem restos/resultado (20div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/conta montada (22div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1576,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-3.-divisão-com-restos/conta-montada-(22div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/conta montada (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/resultado (22div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3469,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/1.-3.-divisão-com-restos/resultado-(22div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/1. 3. Divisão com restos/resultado (22div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/Partes da divisão.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8419,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/1.-base-da-divisão/partes-da-divisão.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/1. Base da divisão/Partes da divisão.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1910,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3139,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4264,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4721,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (5).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2422,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(5).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (5).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (6).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7170,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(6).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (6).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (7).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6975,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/2.-algoritmo-da-divisão/exemplo_156div12-(7).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/2. Algoritmo da divisão/exemplo_156div12 (7).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1291,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/3.-divisão-com-números-decimais/exemplo_10div4-(1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2564,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/3.-divisão-com-números-decimais/exemplo_10div4-(2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2987,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/3.-divisão-com-números-decimais/exemplo_10div4-(3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4724,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/3.-divisão-com-números-decimais/exemplo_10div4-(4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/3. Divisão com números decimais/exemplo_10div4 (4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com números grandes (9497div16).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8992,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-números-grandes-(9497div16).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com números grandes (9497div16).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Dividendo (12,6div3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4839,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-vírgula-no-dividendo-(12,6div3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Dividendo (12,6div3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Divisor (7div0,2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 12116,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-vírgula-no-divisor-(7div0,2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com vírgula no Divisor (7div0,2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4000div5).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5426,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-zeros-no-dividendo-(4000div5).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4000div5).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4040div8).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 12259,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-zeros-no-dividendo-(4040div8).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Dividendo (4040div8).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Quociente (828div4).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5379,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/4.-outros-casos/divisão-com-zeros-no-quociente-(828div4).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/4. Outros casos/Divisão com zeros no Quociente (828div4).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/Dividendo menor que o Divisor (3div5).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8545,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-4.-divisão/dividendo-menor-que-o-divisor-(3div5).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 4. Divisão/Dividendo menor que o Divisor (3div5).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8742,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-5.-operações-com-frações/explicando-divisão-de-frações-(parte-1).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 1).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 2).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7340,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-5.-operações-com-frações/explicando-divisão-de-frações-(parte-2).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 2).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3558,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/2.-operações/2.-5.-operações-com-frações/explicando-divisão-de-frações-(parte-3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/2. Operações/2. 5. Operações com frações/explicando divisão de frações (parte 3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Casas de palitos.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 20709,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/3.-álgebra/casas-de-palitos.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Casas de palitos.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Reta numérica_1 (x ao 750).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8934,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/3.-álgebra/reta-numérica_1-(x-ao-750).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Reta numérica_1 (x ao 750).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Reta numérica_2 (750 ao x).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 14842,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/3.-álgebra/reta-numérica_2-(750-ao-x).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/3. Álgebra/Reta numérica_2 (750 ao x).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Características dos polígonos.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 18686,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-1.-introdução-a-geometria/características-dos-polígonos.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Características dos polígonos.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Eixo de simetria (círculo_exemplo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4439,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-1.-introdução-a-geometria/eixo-de-simetria-(círculo_exemplo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Eixo de simetria (círculo_exemplo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Polígonos comuns.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 15591,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-1.-introdução-a-geometria/polígonos-comuns.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Polígonos comuns.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Reta.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5489,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-1.-introdução-a-geometria/reta.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Reta.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Segmento de reta.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6630,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-1.-introdução-a-geometria/segmento-de-reta.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 1. Introdução a geometria/Segmento de reta.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Bloco retangular.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 74871,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/bloco-retangular.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Bloco retangular.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cilindro.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 31322,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/cilindro.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cilindro.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cone.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 47874,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/cone.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cone.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cubo.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 60217,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/cubo.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Cubo.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Esfera.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 81564,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/esfera.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Esfera.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 86508,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/pirâmide.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide planificada.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 63937,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-2.-introdução-às-formas-espaciais/pirâmide-planificada.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 2. Introdução às formas espaciais/Pirâmide planificada.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (diagonal).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6293,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-3.-direção-e-sentido/direção-e-sentido-(diagonal).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (diagonal).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (horizontal).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3580,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-3.-direção-e-sentido/direção-e-sentido-(horizontal).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (horizontal).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (vertical).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6729,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-3.-direção-e-sentido/direção-e-sentido-(vertical).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/direção e sentido (vertical).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/Exemplo_referencial.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 11186,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-3.-direção-e-sentido/exemplo_referencial.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 3. Direção e sentido/Exemplo_referencial.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas paralelas.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2100,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-4.-detalhando-retas/retas-paralelas.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas paralelas.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas perpendiculares.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1310,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-4.-detalhando-retas/retas-perpendiculares.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas perpendiculares.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas transversais.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5277,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-4.-detalhando-retas/retas-transversais.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 4. Detalhando retas/Retas transversais.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo completo (círculo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5096,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulo-completo-(círculo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo completo (círculo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo côncavo (setor-circular).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4491,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulo-côncavo-(setor-circular).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo côncavo (setor-circular).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo do obtuso (pentagono).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6488,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulo-do-obtuso-(pentagono).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo do obtuso (pentagono).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo raso (semi-circulo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3141,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulo-raso-(semi-circulo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulo raso (semi-circulo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos agudo (triângulo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5786,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulos-agudo-(triângulo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos agudo (triângulo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos do reto (quadrado).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4459,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/tipos-de-ângulos/ângulos-do-reto-(quadrado).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Tipos de ângulos/Ângulos do reto (quadrado).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Como ver ângulos (quadrado_exemplo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3734,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/como-ver-ângulos-(quadrado_exemplo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Como ver ângulos (quadrado_exemplo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Comparando ângulos.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 8329,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/comparando-ângulos.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Comparando ângulos.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Nomeando ângulos (exemplo).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3292,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/nomeando-ângulos-(exemplo).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Nomeando ângulos (exemplo).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/O que é um ângulo.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 16802,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/o-que-é-um-ângulo.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/O que é um ângulo.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Por que nomear ângulos dessa forma.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5613,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-5.-ângulos/por-que-nomear-ângulos-dessa-forma.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 5. Ângulos/Por que nomear ângulos dessa forma.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/figura exemplo_1.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 12325,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-6.-perímetro-e-área/figura-exemplo_1.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/figura exemplo_1.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/figura exemplo_2.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 11583,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-6.-perímetro-e-área/figura-exemplo_2.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/figura exemplo_2.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/perimetro retangulo (incognita).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4857,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-6.-perímetro-e-área/perimetro-retangulo-(incognita).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 6. Perímetro e área/perimetro retangulo (incognita).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 7. Plano cartesiano e coordenadas/Exemplo de coordenada (4, 3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7296,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-7.-plano-cartesiano-e-coordenadas/exemplo-de-coordenada-(4,-3).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 7. Plano cartesiano e coordenadas/Exemplo de coordenada (4, 3).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 7. Plano cartesiano e coordenadas/Plano cartesiano.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7703,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/4.-geometria-plana/4.-7.-plano-cartesiano-e-coordenadas/plano-cartesiano.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/4. Geometria plana/4. 7. Plano cartesiano e coordenadas/Plano cartesiano.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/5. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 13929,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/5.-grandezas-e-medidas/5.-3.-medidas-de-tempo/três-relógios.png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/5. Grandezas e medidas/5. 3. Medidas de tempo/três relógios.png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 48752,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/6.-leitura-de-gráficos/6.-1.-gráfico-de-barras/gráfico-de-barras-(hospital).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 1. Gráfico de barras/Gráfico de barras (hospital).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 41431,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/6.-leitura-de-gráficos/6.-2.-tabelas/tabela-(linha,-coluna-e-célula).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 2. Tabelas/Tabela (linha, coluna e célula).png",
       "dependencies": []
     },
     "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 45145,
-      "exportedPath": "assets/notas/matemática-e-natureza/1.-matemática-fundamentos/6.-leitura-de-gráficos/6.-2.-tabelas/tabela-(título).png",
+      "exportedPath": "assets/Notas/Matemática e Natureza/1. Matemática - Fundamentos/6. Leitura de gráficos/6. 2. Tabelas/Tabela (título).png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 1.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 38866,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-1.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 1.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 2.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 55766,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-2.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 2.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 3.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 109391,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-3.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 3.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 4.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 136547,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-4.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 4.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 5.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 132736,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-5.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 5.png",
       "dependencies": []
     },
     "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 6.png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 172234,
-      "exportedPath": "assets/notas/redação/redações-feitas/2.-desafios-para-a-valorização-da-herança-africana-no-brasil/texto-motivador-6.png",
+      "exportedPath": "assets/Notas/Redação/Redações feitas/2. Desafios para a valorização da herança africana no Brasil/Texto motivador 6.png",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6643,
-      "exportedPath": "estudos/anotações/humanas/filosofia/1.-filosofia-antiga/1.-1.-surgimento-da-filosofia.html",
+      "exportedPath": "Estudos/Anotações/Humanas/Filosofia/1. Filosofia Antiga/1. 1. Surgimento da Filosofia.html",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1984,
-      "exportedPath": "estudos/anotações/humanas/história/1.-história-geral/1.-1.-história-antiga/1.-1.-1.-pré-história.html",
+      "exportedPath": "Estudos/Anotações/Humanas/História/1. História geral/1. 1. História antiga/1. 1. 1. Pré-história.html",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1119,
-      "exportedPath": "estudos/anotações/humanas/sociologia/1.-teoria-da-sociologia/1.-1.-introdução-a-sociologia.html",
+      "exportedPath": "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 1. Introdução a Sociologia.html",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2948,
-      "exportedPath": "estudos/anotações/humanas/sociologia/1.-teoria-da-sociologia/1.-2.-auguste-comte.html",
+      "exportedPath": "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 2. Auguste Comte.html",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2744,
-      "exportedPath": "estudos/anotações/humanas/sociologia/1.-teoria-da-sociologia/1.-3.-émile-durkheim.html",
+      "exportedPath": "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 3. Émile Durkheim.html",
       "dependencies": []
     },
     "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 4. Karl Marx.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 31668,
-      "exportedPath": "estudos/anotações/humanas/sociologia/1.-teoria-da-sociologia/1.-4.-karl-marx.html",
+      "exportedPath": "Estudos/Anotações/Humanas/Sociologia/1. Teoria da Sociologia/1. 4. Karl Marx.html",
       "dependencies": []
     },
     "Estudos/Anotações/Linguagens/2. Linguagens - Enem/Literatura/1. Introdução à literatura/1. 1. Conceito de escola literária.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1397,
-      "exportedPath": "estudos/anotações/linguagens/2.-linguagens-enem/literatura/1.-introdução-à-literatura/1.-1.-conceito-de-escola-literária.html",
+      "exportedPath": "Estudos/Anotações/Linguagens/2. Linguagens - Enem/Literatura/1. Introdução à literatura/1. 1. Conceito de escola literária.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 1. Sistema de numeração decimal.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4336,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/1.-números/1.-1.-sistema-de-numeração-decimal.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 1. Sistema de numeração decimal.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 2. Números negativos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3266,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/1.-números/1.-2.-números-negativos.html",
-      "dependencies": [
-        "lib/media/reta-com-números-negativos-(1).png",
-        "lib/media/reta-com-números-negativos-(2).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 2. Números negativos.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 3. Comparando valores.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2346,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/1.-números/1.-3.-comparando-valores.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 3. Comparando valores.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 4. Frações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4499,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/1.-números/1.-4.-frações.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 4. Frações.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 5. Conjuntos numéricos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4487,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/1.-números/1.-5.-conjuntos-numéricos.html",
-      "dependencies": [
-        "lib/media/conjuntos.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/1. Números/1. 5. Conjuntos numéricos.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 1. Adição.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6122,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-1.-adição.html",
-      "dependencies": [
-        "lib/media/1.-base-da-adição.png",
-        "lib/media/2.-adição-de-círculos-e-quadrados-(1).png",
-        "lib/media/3.-adição-de-círculos-e-quadrados-(2).png",
-        "lib/media/4.-somando-figuras-(ordem-irrelevante)-(1).png",
-        "lib/media/5.-somando-figuras-(ordem-irrelevante)-(2).png",
-        "lib/media/6.-adição-por-reagrupamento.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 1. Adição.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 2. Subtração.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6270,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-2.-subtração.html",
-      "dependencies": [
-        "lib/media/1.-base-da-subtração.png",
-        "lib/media/2.-valores-visualmente.png",
-        "lib/media/3.-exemplo_subtração-visual-(1).png",
-        "lib/media/4.-exemplo_subtração-visual-(2).png",
-        "lib/media/5.-exemplo_subtração-visual-(3).png",
-        "lib/media/6.-subtração-por-reagrupamento.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 2. Subtração.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 3. Multiplicação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 12981,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-3.-multiplicação.html",
-      "dependencies": [
-        "lib/media/base-da-multiplicação.png",
-        "lib/media/exemplo_23times9.png",
-        "lib/media/tabuada-(multiplicação).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 3. Multiplicação.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 4. Divisão.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 19366,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-4.-divisão.html",
-      "dependencies": [
-        "lib/media/simbolo-da-divisão.png",
-        "lib/media/fração.png",
-        "lib/media/conta-montada-(22div4).png",
-        "lib/media/conta-montada-(20div4).png",
-        "lib/media/resultado-(20div4).png",
-        "lib/media/conta-montada-(22div4).png",
-        "lib/media/resultado-(22div4).png",
-        "lib/media/partes-da-divisão.png",
-        "lib/media/exemplo_156div12-(1).png",
-        "lib/media/exemplo_156div12-(2).png",
-        "lib/media/exemplo_156div12-(3).png",
-        "lib/media/exemplo_156div12-(4).png",
-        "lib/media/exemplo_156div12-(5).png",
-        "lib/media/exemplo_156div12-(6).png",
-        "lib/media/exemplo_156div12-(7).png",
-        "lib/media/exemplo_10div4-(1).png",
-        "lib/media/exemplo_10div4-(2).png",
-        "lib/media/exemplo_10div4-(3).png",
-        "lib/media/exemplo_10div4-(4).png",
-        "lib/media/divisão-com-números-grandes-(9497div16).png",
-        "lib/media/divisão-com-zeros-no-dividendo-(4000div5).png",
-        "lib/media/divisão-com-zeros-no-dividendo-(4040div8).png",
-        "lib/media/divisão-com-zeros-no-quociente-(828div4).png",
-        "lib/media/divisão-com-vírgula-no-dividendo-(12,6div3).png",
-        "lib/media/divisão-com-vírgula-no-divisor-(7div0,2).png",
-        "lib/media/dividendo-menor-que-o-divisor-(3div5).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 4. Divisão.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 5. Operações com frações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7753,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-5.-operações-com-frações.html",
-      "dependencies": [
-        "lib/media/explicando-divisão-de-frações-(parte-1).png",
-        "lib/media/explicando-divisão-de-frações-(parte-2).png",
-        "lib/media/explicando-divisão-de-frações-(parte-3).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 5. Operações com frações.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 6. Operações com números negativos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4862,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-6.-operações-com-números-negativos.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 6. Operações com números negativos.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 7. Propriedades das operações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5389,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/2.-operações/2.-7.-propriedades-das-operações.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/2. Operações/2. 7. Propriedades das operações.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 1. Sequências numéricas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3063,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-1.-sequências-numéricas.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 1. Sequências numéricas.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 2. Igualdade (=).md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2691,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-2.-igualdade-(=).html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 2. Igualdade (=).html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 3. Padrões aritméticos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2839,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-3.-padrões-aritméticos.html",
-      "dependencies": [
-        "lib/media/casas-de-palitos.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 3. Padrões aritméticos.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 4. Introdução à equações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3416,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-4.-introdução-à-equações.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 4. Introdução à equações.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 5. Operações inversas em equações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4870,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-5.-operações-inversas-em-equações.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 5. Operações inversas em equações.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 6. Problemas com equações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 12415,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/3.-álgebra/3.-6.-problemas-com-equações.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/3. Álgebra/3. 6. Problemas com equações.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 1. Introdução à geometria.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7133,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-1.-introdução-à-geometria.html",
-      "dependencies": [
-        "lib/media/reta.png",
-        "lib/media/segmento-de-reta.png",
-        "lib/media/características-dos-polígonos.png",
-        "lib/media/polígonos-comuns.png",
-        "lib/media/eixo-de-simetria-(círculo_exemplo).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 1. Introdução à geometria.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 2. Introdução às formas planas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4068,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-2.-introdução-às-formas-planas.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 2. Introdução às formas planas.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 3. Direção e sentido.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3040,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-3.-direção-e-sentido.html",
-      "dependencies": [
-        "lib/media/exemplo_referencial.png",
-        "lib/media/direção-e-sentido-(horizontal).png",
-        "lib/media/direção-e-sentido-(vertical).png",
-        "lib/media/direção-e-sentido-(diagonal).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 3. Direção e sentido.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 4. Detalhando retas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 920,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-4.-detalhando-retas.html",
-      "dependencies": [
-        "lib/media/retas-paralelas.png",
-        "lib/media/retas-perpendiculares.png",
-        "lib/media/retas-transversais.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 4. Detalhando retas.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 5. Ângulos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3865,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-5.-ângulos.html",
-      "dependencies": [
-        "lib/media/nomeando-ângulos-(exemplo).png",
-        "lib/media/por-que-nomear-ângulos-dessa-forma.png",
-        "lib/media/o-que-é-um-ângulo.png",
-        "lib/media/como-ver-ângulos-(quadrado_exemplo).png",
-        "lib/media/comparando-ângulos.png",
-        "lib/media/ângulos-agudo-(triângulo).png",
-        "lib/media/ângulos-do-reto-(quadrado).png",
-        "lib/media/ângulo-do-obtuso-(pentagono).png",
-        "lib/media/ângulo-raso-(semi-circulo).png",
-        "lib/media/ângulo-côncavo-(setor-circular).png",
-        "lib/media/ângulo-completo-(círculo).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 5. Ângulos.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 6. Perímetro e área.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4911,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-6.-perímetro-e-área.html",
-      "dependencies": [
-        "lib/media/perimetro-retangulo-(incognita).png",
-        "lib/media/figura-exemplo_1.png",
-        "lib/media/figura-exemplo_2.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 6. Perímetro e área.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 7. Plano cartesiano e coordenadas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 951,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/4.-geometria-plana/4.-7.-plano-cartesiano-e-coordenadas.html",
-      "dependencies": [
-        "lib/media/plano-cartesiano.png",
-        "lib/media/exemplo-de-coordenada-(4,-3).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/4. Geometria plana/4. 7. Plano cartesiano e coordenadas.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/5. Grandezas e medidas/5. 1. Medidas de tempo.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3016,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/5.-grandezas-e-medidas/5.-1.-medidas-de-tempo.html",
-      "dependencies": [
-        "lib/media/três-relógios.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/5. Grandezas e medidas/5. 1. Medidas de tempo.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/5. Grandezas e medidas/5. 2. Unidades de medida.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1971,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/5.-grandezas-e-medidas/5.-2.-unidades-de-medida.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/5. Grandezas e medidas/5. 2. Unidades de medida.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 1. Gráfico de barras.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3212,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/6.-probabilidade-e-estatística/6.-1.-gráfico-de-barras.html",
-      "dependencies": [
-        "lib/media/gráfico-de-barras-(hospital).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 1. Gráfico de barras.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 2. Tabelas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2081,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/6.-probabilidade-e-estatística/6.-2.-tabelas.html",
-      "dependencies": [
-        "lib/media/tabela-(linha,-coluna-e-célula).png",
-        "lib/media/tabela-(título).png"
-      ]
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 2. Tabelas.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 3. Introdução à eventos aleatórios.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1391,
-      "exportedPath": "estudos/anotações/matemática/1.-matemática-fundamental/6.-probabilidade-e-estatística/6.-3.-introdução-à-eventos-aleatórios.html",
+      "exportedPath": "Estudos/Anotações/Matemática/1. Matemática - Fundamental/6. Probabilidade e estatística/6. 3. Introdução à eventos aleatórios.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/1. Operações fundamentais/1. 1. Adição e subtração.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2007,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/1.-operações-fundamentais/1.-1.-adição-e-subtração.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/1. Operações fundamentais/1. 1. Adição e subtração.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/1. Operações fundamentais/1. 2. Multiplicação e divisão.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2802,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/1.-operações-fundamentais/1.-2.-multiplicação-e-divisão.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/1. Operações fundamentais/1. 2. Multiplicação e divisão.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/3. Potências e raízes/3. 1. Potenciação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7383,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/3.-potências-e-raízes/3.-1.-potenciação.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/3. Potências e raízes/3. 1. Potenciação.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/5. Medidas e proporcionalidade/5. 2. Razão.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1631,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/5.-medidas-e-proporcionalidade/5.-2.-razão.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/5. Medidas e proporcionalidade/5. 2. Razão.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/5. Medidas e proporcionalidade/5. 3. Proporção.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 6907,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/5.-medidas-e-proporcionalidade/5.-3.-proporção.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/5. Medidas e proporcionalidade/5. 3. Proporção.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/2. Matemática - Básico/7. Porcentagem e juros/7. 1. Porcentagens.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5988,
-      "exportedPath": "estudos/anotações/matemática/2.-matemática-básico/7.-porcentagem-e-juros/7.-1.-porcentagens.html",
+      "exportedPath": "Estudos/Anotações/Matemática/2. Matemática - Básico/7. Porcentagem e juros/7. 1. Porcentagens.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/3. Matemática - Médio/2. Triângulos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 704,
-      "exportedPath": "estudos/anotações/matemática/3.-matemática-médio/2.-triângulos.html",
+      "exportedPath": "Estudos/Anotações/Matemática/3. Matemática - Médio/2. Triângulos.html",
       "dependencies": []
     },
     "Estudos/Anotações/Matemática/Estudos de matemática.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2322,
-      "exportedPath": "estudos/anotações/matemática/estudos-de-matemática.html",
+      "exportedPath": "Estudos/Anotações/Matemática/Estudos de matemática.html",
       "dependencies": []
     },
     "Estudos/Anotações/Natureza/Biologia/Estudos de Biologia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1030,
-      "exportedPath": "estudos/anotações/natureza/biologia/estudos-de-biologia.html",
+      "exportedPath": "Estudos/Anotações/Natureza/Biologia/Estudos de Biologia.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/1. Redação Enem/1. 1. O que é uma redação Enem.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 845,
-      "exportedPath": "estudos/anotações/redação/1.-redação-enem/1.-1.-o-que-é-uma-redação-enem.html",
+      "exportedPath": "Estudos/Anotações/Redação/1. Redação Enem/1. 1. O que é uma redação Enem.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/1. Redação Enem/1. 2. Competências da redação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2384,
-      "exportedPath": "estudos/anotações/redação/1.-redação-enem/1.-2.-competências-da-redação.html",
+      "exportedPath": "Estudos/Anotações/Redação/1. Redação Enem/1. 2. Competências da redação.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/1. Redação Enem/1. 3. Estruturas da redação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4565,
-      "exportedPath": "estudos/anotações/redação/1.-redação-enem/1.-3.-estruturas-da-redação.html",
+      "exportedPath": "Estudos/Anotações/Redação/1. Redação Enem/1. 3. Estruturas da redação.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3770318,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-1.-tema-e-texto-de-apoio.pdf",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 1. Tema e texto de apoio.pdf",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3704284,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-2.-rascunho.jpg",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 2. Rascunho.jpg",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 727160,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-3.-redação-(tentativa-n°1).png",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 3. Redação (Tentativa n°1).png",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 180515,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-4.-redação-(tentativa-n°2).jpg",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 4. Redação (Tentativa n°2).jpg",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 883547,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-5.-redação-(tentativa-n°3).png",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 5. Redação (Tentativa n°3).png",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2837,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-1.-enfrentamento-aos-desafios-da-manutenção-e-eficiência-da-farmácia-popular-no-brasil/1.-6.-redação-concluída.html",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 1. Enfrentamento aos desafios da manutenção e eficiência da Farmácia Popular no Brasil/1. 6. Redação concluída.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 587,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-2.-desafios-para-a-valorização-da-herança-africana-no-brasil/2.-1.-textos-de-apoio.html",
-      "dependencies": [
-        "lib/media/texto-motivador-1.png",
-        "lib/media/texto-motivador-2.png",
-        "lib/media/texto-motivador-3.png",
-        "lib/media/texto-motivador-4.png",
-        "lib/media/texto-motivador-5.png",
-        "lib/media/texto-motivador-6.png"
-      ]
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 1. Textos de apoio.html",
+      "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2353,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-2.-desafios-para-a-valorização-da-herança-africana-no-brasil/2.-2.-rascunho.html",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 2. Desafios para a valorização da herança africana no Brasil/2. 2. Rascunho.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/2. 3. 1. Textos de apoio.pdf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1830940,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-3.-os-efeitos-do-preconceito-racial-na-sociedade-brasileira/2.-3.-1.-textos-de-apoio.pdf",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/2. 3. 1. Textos de apoio.pdf",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/3. 2. Rascunho.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3151,
-      "exportedPath": "estudos/anotações/redação/2.-temas-de-redação/2.-3.-os-efeitos-do-preconceito-racial-na-sociedade-brasileira/3.-2.-rascunho.html",
+      "exportedPath": "Estudos/Anotações/Redação/2. Temas de redação/2. 3. Os efeitos do preconceito racial na sociedade brasileira/3. 2. Rascunho.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 1. Repertórios coringa.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 231,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-1.-repertórios-coringa.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 1. Repertórios coringa.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 2. Meio ambiente.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 934,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-2.-meio-ambiente.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 2. Meio ambiente.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 3. Questões sociais.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1040,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-3.-questões-sociais.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 3. Questões sociais.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 4. Saúde e ciência.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 790,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-4.-saúde-e-ciência.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 4. Saúde e ciência.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 5. Arte e cultura.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 786,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-5.-arte-e-cultura.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 5. Arte e cultura.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 6. Direito e cidadania.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 765,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-6.-direito-e-cidadania.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 6. Direito e cidadania.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 7. Educação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 691,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-7.-educação.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 7. Educação.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 8. Tecnologia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 834,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-8.-tecnologia.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 8. Tecnologia.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/3. Repertórios/3. 9. Economia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 792,
-      "exportedPath": "estudos/anotações/redação/3.-repertórios/3.-9.-economia.html",
+      "exportedPath": "Estudos/Anotações/Redação/3. Repertórios/3. 9. Economia.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/Estudos de Redação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1966,
-      "exportedPath": "estudos/anotações/redação/estudos-de-redação.html",
+      "exportedPath": "Estudos/Anotações/Redação/Estudos de Redação.html",
       "dependencies": []
     },
     "Estudos/Anotações/Redação/Folha de redacão (Ferretto).pdf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 749963,
-      "exportedPath": "estudos/anotações/redação/folha-de-redacão-(ferretto).pdf",
+      "exportedPath": "Estudos/Anotações/Redação/Folha de redacão (Ferretto).pdf",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/1. Matemática e natureza/1. Matemática.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3245,
-      "exportedPath": "estudos/enem/assuntos/1.-matemática-e-natureza/1.-matemática.html",
+      "exportedPath": "Estudos/Enem/Assuntos/1. Matemática e natureza/1. Matemática.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/1. Matemática e natureza/2. Biologia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3684,
-      "exportedPath": "estudos/enem/assuntos/1.-matemática-e-natureza/2.-biologia.html",
+      "exportedPath": "Estudos/Enem/Assuntos/1. Matemática e natureza/2. Biologia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/1. Matemática e natureza/3. Química.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 5205,
-      "exportedPath": "estudos/enem/assuntos/1.-matemática-e-natureza/3.-química.html",
+      "exportedPath": "Estudos/Enem/Assuntos/1. Matemática e natureza/3. Química.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/1. Matemática e natureza/4. Física 1.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1857,
-      "exportedPath": "estudos/enem/assuntos/1.-matemática-e-natureza/4.-física-1.html",
+      "exportedPath": "Estudos/Enem/Assuntos/1. Matemática e natureza/4. Física 1.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/1. Matemática e natureza/5. Física 2.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3162,
-      "exportedPath": "estudos/enem/assuntos/1.-matemática-e-natureza/5.-física-2.html",
+      "exportedPath": "Estudos/Enem/Assuntos/1. Matemática e natureza/5. Física 2.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/2. Linguagem/1. Gramatica.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1106,
-      "exportedPath": "estudos/enem/assuntos/2.-linguagem/1.-gramatica.html",
+      "exportedPath": "Estudos/Enem/Assuntos/2. Linguagem/1. Gramatica.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/2. Linguagem/2. Interpretação de texto.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1462,
-      "exportedPath": "estudos/enem/assuntos/2.-linguagem/2.-interpretação-de-texto.html",
+      "exportedPath": "Estudos/Enem/Assuntos/2. Linguagem/2. Interpretação de texto.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/2. Linguagem/3. Literatura.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2444,
-      "exportedPath": "estudos/enem/assuntos/2.-linguagem/3.-literatura.html",
+      "exportedPath": "Estudos/Enem/Assuntos/2. Linguagem/3. Literatura.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/3. Humanas/1.1 História geral.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1053,
-      "exportedPath": "estudos/enem/assuntos/3.-humanas/1.1-história-geral.html",
+      "exportedPath": "Estudos/Enem/Assuntos/3. Humanas/1.1 História geral.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/3. Humanas/1.2 História do Brasil.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1546,
-      "exportedPath": "estudos/enem/assuntos/3.-humanas/1.2-história-do-brasil.html",
+      "exportedPath": "Estudos/Enem/Assuntos/3. Humanas/1.2 História do Brasil.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/3. Humanas/1.3 História da arte.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1310,
-      "exportedPath": "estudos/enem/assuntos/3.-humanas/1.3-história-da-arte.html",
+      "exportedPath": "Estudos/Enem/Assuntos/3. Humanas/1.3 História da arte.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/3. Humanas/Filosofia e sociologia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1822,
-      "exportedPath": "estudos/enem/assuntos/3.-humanas/filosofia-e-sociologia.html",
+      "exportedPath": "Estudos/Enem/Assuntos/3. Humanas/Filosofia e sociologia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/3. Humanas/Geografia.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3123,
-      "exportedPath": "estudos/enem/assuntos/3.-humanas/geografia.html",
+      "exportedPath": "Estudos/Enem/Assuntos/3. Humanas/Geografia.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/4. Redação.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1453,
-      "exportedPath": "estudos/enem/assuntos/4.-redação.html",
+      "exportedPath": "Estudos/Enem/Assuntos/4. Redação.html",
       "dependencies": []
     },
     "Estudos/Enem/Assuntos/5. Incidência de assuntos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3893,
-      "exportedPath": "estudos/enem/assuntos/5.-incidência-de-assuntos.html",
-      "dependencies": [
-        "lib/media/1.-incidência-matemática.png",
-        "lib/media/2.-incidência-física.png",
-        "lib/media/3.-incidência-química.png",
-        "lib/media/4.-incidência-biologia.png",
-        "lib/media/5.-incidência-história.png",
-        "lib/media/6.-incidência-geografia.png",
-        "lib/media/7.-incidência-filosofia.png",
-        "lib/media/8.-incidência-sociologia.png",
-        "lib/media/9.-incidência-língua-portuguesa.png",
-        "lib/media/10.-incidência-literatura.png",
-        "lib/media/11.-incidência-inglês.png",
-        "lib/media/12.-incidência-espanhol.png"
-      ]
+      "exportedPath": "Estudos/Enem/Assuntos/5. Incidência de assuntos.html",
+      "dependencies": []
     },
     "Estudos/Enem/Provas feitas/Enem 2024.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1158,
-      "exportedPath": "estudos/enem/provas-feitas/enem-2024.html",
-      "dependencies": [
-        "lib/media/nota-enem-(2024).png"
-      ]
+      "exportedPath": "Estudos/Enem/Provas feitas/Enem 2024.html",
+      "dependencies": []
     },
     "Estudos/Enem/Ciclos de estudos (atual).md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 288,
-      "exportedPath": "estudos/enem/ciclos-de-estudos-(atual).html",
+      "exportedPath": "Estudos/Enem/Ciclos de estudos (atual).html",
       "dependencies": []
     },
     "Estudos/Enem/Plano de estudos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3893,
-      "exportedPath": "estudos/enem/plano-de-estudos.html",
+      "exportedPath": "Estudos/Enem/Plano de estudos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Aprendendo a aprender/Anotações.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 34696,
-      "exportedPath": "estudos/leituras/aprendendo-a-aprender/anotações.html",
-      "dependencies": [
-        "lib/media/exemplo_neurônio.png",
-        "lib/media/metáfora_neurônio.png"
-      ]
+      "exportedPath": "Estudos/Leituras/Aprendendo a aprender/Anotações.html",
+      "dependencies": []
     },
     "Estudos/Leituras/Aprendendo a aprender/Resumo geral.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4176,
-      "exportedPath": "estudos/leituras/aprendendo-a-aprender/resumo-geral.html",
+      "exportedPath": "Estudos/Leituras/Aprendendo a aprender/Resumo geral.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/1. Criar bons hábitos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3562,
-      "exportedPath": "estudos/leituras/hábitos-atômicos/1.-criar-bons-hábitos.html",
+      "exportedPath": "Estudos/Leituras/Hábitos atômicos/1. Criar bons hábitos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/2. Parar maus hábitos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3654,
-      "exportedPath": "estudos/leituras/hábitos-atômicos/2.-parar-maus-hábitos.html",
+      "exportedPath": "Estudos/Leituras/Hábitos atômicos/2. Parar maus hábitos.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/3. Destacar-se.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4564,
-      "exportedPath": "estudos/leituras/hábitos-atômicos/3.-destacar-se.html",
+      "exportedPath": "Estudos/Leituras/Hábitos atômicos/3. Destacar-se.html",
       "dependencies": []
     },
     "Estudos/Leituras/Hábitos atômicos/Resumo geral.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4628,
-      "exportedPath": "estudos/leituras/hábitos-atômicos/resumo-geral.html",
+      "exportedPath": "Estudos/Leituras/Hábitos atômicos/Resumo geral.html",
       "dependencies": []
     },
     "Estudos/Leituras/Você não sabe estudar!/Resumo geral.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 11223,
-      "exportedPath": "estudos/leituras/você-não-sabe-estudar!/resumo-geral.html",
+      "exportedPath": "Estudos/Leituras/Você não sabe estudar!/Resumo geral.html",
       "dependencies": []
     },
     "Estudos/Leituras/Livros-lidos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 1477,
-      "exportedPath": "estudos/leituras/livros-lidos.html",
+      "exportedPath": "Estudos/Leituras/Livros-lidos.html",
       "dependencies": []
     },
     "Estudos/1. Pré-estudos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 4826,
-      "exportedPath": "estudos/1.-pré-estudos.html",
+      "exportedPath": "Estudos/1. Pré-estudos.html",
       "dependencies": []
     },
     "Estudos/2. Guia de estudos.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 2570,
-      "exportedPath": "estudos/2.-guia-de-estudos.html",
+      "exportedPath": "Estudos/2. Guia de estudos.html",
       "dependencies": []
     },
     "Estudos/3. Guia de provas.md": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 3333,
-      "exportedPath": "estudos/3.-guia-de-provas.html",
-      "dependencies": []
-    },
-    "lib/media/reta-com-números-negativos-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3138,
-      "exportedPath": "lib/media/reta-com-números-negativos-(1).png",
-      "dependencies": []
-    },
-    "lib/media/reta-com-números-negativos-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4603,
-      "exportedPath": "lib/media/reta-com-números-negativos-(2).png",
-      "dependencies": []
-    },
-    "lib/media/conjuntos.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 17864,
-      "exportedPath": "lib/media/conjuntos.png",
-      "dependencies": []
-    },
-    "lib/media/1.-base-da-adição.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 41641,
-      "exportedPath": "lib/media/1.-base-da-adição.png",
-      "dependencies": []
-    },
-    "lib/media/2.-adição-de-círculos-e-quadrados-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 10048,
-      "exportedPath": "lib/media/2.-adição-de-círculos-e-quadrados-(1).png",
-      "dependencies": []
-    },
-    "lib/media/3.-adição-de-círculos-e-quadrados-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 15174,
-      "exportedPath": "lib/media/3.-adição-de-círculos-e-quadrados-(2).png",
-      "dependencies": []
-    },
-    "lib/media/4.-somando-figuras-(ordem-irrelevante)-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 19892,
-      "exportedPath": "lib/media/4.-somando-figuras-(ordem-irrelevante)-(1).png",
-      "dependencies": []
-    },
-    "lib/media/5.-somando-figuras-(ordem-irrelevante)-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 22358,
-      "exportedPath": "lib/media/5.-somando-figuras-(ordem-irrelevante)-(2).png",
-      "dependencies": []
-    },
-    "lib/media/6.-adição-por-reagrupamento.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 37399,
-      "exportedPath": "lib/media/6.-adição-por-reagrupamento.png",
-      "dependencies": []
-    },
-    "lib/media/1.-base-da-subtração.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 20468,
-      "exportedPath": "lib/media/1.-base-da-subtração.png",
-      "dependencies": []
-    },
-    "lib/media/2.-valores-visualmente.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 13369,
-      "exportedPath": "lib/media/2.-valores-visualmente.png",
-      "dependencies": []
-    },
-    "lib/media/3.-exemplo_subtração-visual-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 14252,
-      "exportedPath": "lib/media/3.-exemplo_subtração-visual-(1).png",
-      "dependencies": []
-    },
-    "lib/media/4.-exemplo_subtração-visual-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 15092,
-      "exportedPath": "lib/media/4.-exemplo_subtração-visual-(2).png",
-      "dependencies": []
-    },
-    "lib/media/5.-exemplo_subtração-visual-(3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 16074,
-      "exportedPath": "lib/media/5.-exemplo_subtração-visual-(3).png",
-      "dependencies": []
-    },
-    "lib/media/6.-subtração-por-reagrupamento.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 25284,
-      "exportedPath": "lib/media/6.-subtração-por-reagrupamento.png",
-      "dependencies": []
-    },
-    "lib/media/base-da-multiplicação.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 20433,
-      "exportedPath": "lib/media/base-da-multiplicação.png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_23times9.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 10699,
-      "exportedPath": "lib/media/exemplo_23times9.png",
-      "dependencies": []
-    },
-    "lib/media/tabuada-(multiplicação).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 456045,
-      "exportedPath": "lib/media/tabuada-(multiplicação).png",
-      "dependencies": []
-    },
-    "lib/media/simbolo-da-divisão.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2763,
-      "exportedPath": "lib/media/simbolo-da-divisão.png",
-      "dependencies": []
-    },
-    "lib/media/fração.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3613,
-      "exportedPath": "lib/media/fração.png",
-      "dependencies": []
-    },
-    "lib/media/conta-montada-(22div4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3282,
-      "exportedPath": "lib/media/conta-montada-(22div4).png",
-      "dependencies": []
-    },
-    "lib/media/conta-montada-(20div4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 1621,
-      "exportedPath": "lib/media/conta-montada-(20div4).png",
-      "dependencies": []
-    },
-    "lib/media/resultado-(20div4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2083,
-      "exportedPath": "lib/media/resultado-(20div4).png",
-      "dependencies": []
-    },
-    "lib/media/resultado-(22div4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3469,
-      "exportedPath": "lib/media/resultado-(22div4).png",
-      "dependencies": []
-    },
-    "lib/media/partes-da-divisão.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 8419,
-      "exportedPath": "lib/media/partes-da-divisão.png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 1910,
-      "exportedPath": "lib/media/exemplo_156div12-(1).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3139,
-      "exportedPath": "lib/media/exemplo_156div12-(2).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4264,
-      "exportedPath": "lib/media/exemplo_156div12-(3).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4721,
-      "exportedPath": "lib/media/exemplo_156div12-(4).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(5).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2422,
-      "exportedPath": "lib/media/exemplo_156div12-(5).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(6).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 7170,
-      "exportedPath": "lib/media/exemplo_156div12-(6).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_156div12-(7).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 6975,
-      "exportedPath": "lib/media/exemplo_156div12-(7).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_10div4-(1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 1291,
-      "exportedPath": "lib/media/exemplo_10div4-(1).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_10div4-(2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2564,
-      "exportedPath": "lib/media/exemplo_10div4-(2).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_10div4-(3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2987,
-      "exportedPath": "lib/media/exemplo_10div4-(3).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_10div4-(4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4724,
-      "exportedPath": "lib/media/exemplo_10div4-(4).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-números-grandes-(9497div16).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 8992,
-      "exportedPath": "lib/media/divisão-com-números-grandes-(9497div16).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-zeros-no-dividendo-(4000div5).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5426,
-      "exportedPath": "lib/media/divisão-com-zeros-no-dividendo-(4000div5).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-zeros-no-dividendo-(4040div8).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 12259,
-      "exportedPath": "lib/media/divisão-com-zeros-no-dividendo-(4040div8).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-zeros-no-quociente-(828div4).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5379,
-      "exportedPath": "lib/media/divisão-com-zeros-no-quociente-(828div4).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-vírgula-no-dividendo-(12,6div3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4839,
-      "exportedPath": "lib/media/divisão-com-vírgula-no-dividendo-(12,6div3).png",
-      "dependencies": []
-    },
-    "lib/media/divisão-com-vírgula-no-divisor-(7div0,2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 12116,
-      "exportedPath": "lib/media/divisão-com-vírgula-no-divisor-(7div0,2).png",
-      "dependencies": []
-    },
-    "lib/media/dividendo-menor-que-o-divisor-(3div5).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 8545,
-      "exportedPath": "lib/media/dividendo-menor-que-o-divisor-(3div5).png",
-      "dependencies": []
-    },
-    "lib/media/explicando-divisão-de-frações-(parte-1).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 8742,
-      "exportedPath": "lib/media/explicando-divisão-de-frações-(parte-1).png",
-      "dependencies": []
-    },
-    "lib/media/explicando-divisão-de-frações-(parte-2).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 7340,
-      "exportedPath": "lib/media/explicando-divisão-de-frações-(parte-2).png",
-      "dependencies": []
-    },
-    "lib/media/explicando-divisão-de-frações-(parte-3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3558,
-      "exportedPath": "lib/media/explicando-divisão-de-frações-(parte-3).png",
-      "dependencies": []
-    },
-    "lib/media/casas-de-palitos.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 20709,
-      "exportedPath": "lib/media/casas-de-palitos.png",
-      "dependencies": []
-    },
-    "lib/media/reta.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5489,
-      "exportedPath": "lib/media/reta.png",
-      "dependencies": []
-    },
-    "lib/media/segmento-de-reta.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 6630,
-      "exportedPath": "lib/media/segmento-de-reta.png",
-      "dependencies": []
-    },
-    "lib/media/características-dos-polígonos.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 18686,
-      "exportedPath": "lib/media/características-dos-polígonos.png",
-      "dependencies": []
-    },
-    "lib/media/polígonos-comuns.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 15591,
-      "exportedPath": "lib/media/polígonos-comuns.png",
-      "dependencies": []
-    },
-    "lib/media/eixo-de-simetria-(círculo_exemplo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4439,
-      "exportedPath": "lib/media/eixo-de-simetria-(círculo_exemplo).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_referencial.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 11186,
-      "exportedPath": "lib/media/exemplo_referencial.png",
-      "dependencies": []
-    },
-    "lib/media/direção-e-sentido-(horizontal).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3580,
-      "exportedPath": "lib/media/direção-e-sentido-(horizontal).png",
-      "dependencies": []
-    },
-    "lib/media/direção-e-sentido-(vertical).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 6729,
-      "exportedPath": "lib/media/direção-e-sentido-(vertical).png",
-      "dependencies": []
-    },
-    "lib/media/direção-e-sentido-(diagonal).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 6293,
-      "exportedPath": "lib/media/direção-e-sentido-(diagonal).png",
-      "dependencies": []
-    },
-    "lib/media/retas-paralelas.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 2100,
-      "exportedPath": "lib/media/retas-paralelas.png",
-      "dependencies": []
-    },
-    "lib/media/retas-perpendiculares.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 1310,
-      "exportedPath": "lib/media/retas-perpendiculares.png",
-      "dependencies": []
-    },
-    "lib/media/retas-transversais.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5277,
-      "exportedPath": "lib/media/retas-transversais.png",
-      "dependencies": []
-    },
-    "lib/media/nomeando-ângulos-(exemplo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3292,
-      "exportedPath": "lib/media/nomeando-ângulos-(exemplo).png",
-      "dependencies": []
-    },
-    "lib/media/por-que-nomear-ângulos-dessa-forma.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5613,
-      "exportedPath": "lib/media/por-que-nomear-ângulos-dessa-forma.png",
-      "dependencies": []
-    },
-    "lib/media/o-que-é-um-ângulo.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 16802,
-      "exportedPath": "lib/media/o-que-é-um-ângulo.png",
-      "dependencies": []
-    },
-    "lib/media/como-ver-ângulos-(quadrado_exemplo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3734,
-      "exportedPath": "lib/media/como-ver-ângulos-(quadrado_exemplo).png",
-      "dependencies": []
-    },
-    "lib/media/comparando-ângulos.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 8329,
-      "exportedPath": "lib/media/comparando-ângulos.png",
-      "dependencies": []
-    },
-    "lib/media/ângulos-agudo-(triângulo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5786,
-      "exportedPath": "lib/media/ângulos-agudo-(triângulo).png",
-      "dependencies": []
-    },
-    "lib/media/ângulos-do-reto-(quadrado).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4459,
-      "exportedPath": "lib/media/ângulos-do-reto-(quadrado).png",
-      "dependencies": []
-    },
-    "lib/media/ângulo-do-obtuso-(pentagono).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 6488,
-      "exportedPath": "lib/media/ângulo-do-obtuso-(pentagono).png",
-      "dependencies": []
-    },
-    "lib/media/ângulo-raso-(semi-circulo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 3141,
-      "exportedPath": "lib/media/ângulo-raso-(semi-circulo).png",
-      "dependencies": []
-    },
-    "lib/media/ângulo-côncavo-(setor-circular).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4491,
-      "exportedPath": "lib/media/ângulo-côncavo-(setor-circular).png",
-      "dependencies": []
-    },
-    "lib/media/ângulo-completo-(círculo).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5096,
-      "exportedPath": "lib/media/ângulo-completo-(círculo).png",
-      "dependencies": []
-    },
-    "lib/media/perimetro-retangulo-(incognita).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 4857,
-      "exportedPath": "lib/media/perimetro-retangulo-(incognita).png",
-      "dependencies": []
-    },
-    "lib/media/figura-exemplo_1.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 12325,
-      "exportedPath": "lib/media/figura-exemplo_1.png",
-      "dependencies": []
-    },
-    "lib/media/figura-exemplo_2.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 11583,
-      "exportedPath": "lib/media/figura-exemplo_2.png",
-      "dependencies": []
-    },
-    "lib/media/plano-cartesiano.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 7703,
-      "exportedPath": "lib/media/plano-cartesiano.png",
-      "dependencies": []
-    },
-    "lib/media/exemplo-de-coordenada-(4,-3).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 7296,
-      "exportedPath": "lib/media/exemplo-de-coordenada-(4,-3).png",
-      "dependencies": []
-    },
-    "lib/media/três-relógios.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 13929,
-      "exportedPath": "lib/media/três-relógios.png",
-      "dependencies": []
-    },
-    "lib/media/gráfico-de-barras-(hospital).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 48752,
-      "exportedPath": "lib/media/gráfico-de-barras-(hospital).png",
-      "dependencies": []
-    },
-    "lib/media/tabela-(linha,-coluna-e-célula).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 41431,
-      "exportedPath": "lib/media/tabela-(linha,-coluna-e-célula).png",
-      "dependencies": []
-    },
-    "lib/media/tabela-(título).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 45145,
-      "exportedPath": "lib/media/tabela-(título).png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-1.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 38866,
-      "exportedPath": "lib/media/texto-motivador-1.png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-2.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 55766,
-      "exportedPath": "lib/media/texto-motivador-2.png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-3.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 109391,
-      "exportedPath": "lib/media/texto-motivador-3.png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-4.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 136547,
-      "exportedPath": "lib/media/texto-motivador-4.png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-5.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 132736,
-      "exportedPath": "lib/media/texto-motivador-5.png",
-      "dependencies": []
-    },
-    "lib/media/texto-motivador-6.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 172234,
-      "exportedPath": "lib/media/texto-motivador-6.png",
-      "dependencies": []
-    },
-    "lib/media/1.-incidência-matemática.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 207340,
-      "exportedPath": "lib/media/1.-incidência-matemática.png",
-      "dependencies": []
-    },
-    "lib/media/2.-incidência-física.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 288379,
-      "exportedPath": "lib/media/2.-incidência-física.png",
-      "dependencies": []
-    },
-    "lib/media/3.-incidência-química.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 394774,
-      "exportedPath": "lib/media/3.-incidência-química.png",
-      "dependencies": []
-    },
-    "lib/media/4.-incidência-biologia.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 108960,
-      "exportedPath": "lib/media/4.-incidência-biologia.png",
-      "dependencies": []
-    },
-    "lib/media/5.-incidência-história.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 51087,
-      "exportedPath": "lib/media/5.-incidência-história.png",
-      "dependencies": []
-    },
-    "lib/media/6.-incidência-geografia.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 172636,
-      "exportedPath": "lib/media/6.-incidência-geografia.png",
-      "dependencies": []
-    },
-    "lib/media/7.-incidência-filosofia.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 271838,
-      "exportedPath": "lib/media/7.-incidência-filosofia.png",
-      "dependencies": []
-    },
-    "lib/media/8.-incidência-sociologia.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 474590,
-      "exportedPath": "lib/media/8.-incidência-sociologia.png",
-      "dependencies": []
-    },
-    "lib/media/9.-incidência-língua-portuguesa.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 193337,
-      "exportedPath": "lib/media/9.-incidência-língua-portuguesa.png",
-      "dependencies": []
-    },
-    "lib/media/10.-incidência-literatura.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 170801,
-      "exportedPath": "lib/media/10.-incidência-literatura.png",
-      "dependencies": []
-    },
-    "lib/media/11.-incidência-inglês.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 20643,
-      "exportedPath": "lib/media/11.-incidência-inglês.png",
-      "dependencies": []
-    },
-    "lib/media/12.-incidência-espanhol.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 20368,
-      "exportedPath": "lib/media/12.-incidência-espanhol.png",
-      "dependencies": []
-    },
-    "lib/media/nota-enem-(2024).png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 21731,
-      "exportedPath": "lib/media/nota-enem-(2024).png",
-      "dependencies": []
-    },
-    "lib/media/exemplo_neurônio.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 63293,
-      "exportedPath": "lib/media/exemplo_neurônio.png",
-      "dependencies": []
-    },
-    "lib/media/metáfora_neurônio.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 58107,
-      "exportedPath": "lib/media/metáfora_neurônio.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 23377,
-      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "exportedPath": "Estudos/3. Guia de provas.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741221338136,
+      "modifiedTime": 1741222300233,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
-    "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 1368,
-      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 34160,
-      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 34464,
-      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 19360,
-      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 20832,
-      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 19776,
-      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 5792,
-      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 5464,
-      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 3244,
-      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 5148,
-      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 40808,
-      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 9600,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 9908,
-      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 21480,
-      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 22340,
-      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 12660,
-      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 15944,
-      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 14628,
-      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 11852,
-      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 17604,
-      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 1136,
-      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
-    "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1741221338136,
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1741222300233,
       "sourceSize": 1116,
-      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
-      "dependencies": []
-    },
-    "lib/html/file-tree.html": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 150681,
-      "exportedPath": "lib/html/file-tree.html",
-      "dependencies": []
-    },
-    "lib/scripts/webpage.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 47290,
-      "exportedPath": "lib/scripts/webpage.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-view.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 15519,
-      "exportedPath": "lib/scripts/graph-view.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 14021,
-      "exportedPath": "lib/scripts/graph-wasm.js",
-      "dependencies": []
-    },
-    "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 5179,
-      "exportedPath": "lib/scripts/graph-render-worker.js",
-      "dependencies": []
-    },
-    "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 29832,
-      "exportedPath": "lib/scripts/tinycolor.js",
-      "dependencies": []
-    },
-    "lib/scripts/pixi.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 449509,
-      "exportedPath": "lib/scripts/pixi.js",
-      "dependencies": []
-    },
-    "lib/scripts/minisearch.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 29422,
-      "exportedPath": "lib/scripts/minisearch.js",
-      "dependencies": []
-    },
-    "lib/media/favicon.png": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 1105,
-      "exportedPath": "lib/media/favicon.png",
-      "dependencies": []
-    },
-    "lib/scripts/graph-data.js": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 10493,
-      "exportedPath": "lib/scripts/graph-data.js",
-      "dependencies": []
-    },
-    "lib/styles/obsidian.css": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 137567,
-      "exportedPath": "lib/styles/obsidian.css",
-      "dependencies": []
-    },
-    "lib/styles/theme.css": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 897133,
-      "exportedPath": "lib/styles/theme.css",
-      "dependencies": []
-    },
-    "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 262,
-      "exportedPath": "lib/styles/global-variable-styles.css",
-      "dependencies": []
-    },
-    "lib/styles/main-styles.css": {
-      "modifiedTime": 1741221338136,
-      "sourceSize": 23130,
-      "exportedPath": "lib/styles/main-styles.css",
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
