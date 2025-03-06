@@ -16,54 +16,48 @@
 // Título errados: Resolvido :D
 
 document.addEventListener("DOMContentLoaded", function () {
-    function corrigirTitulosSidebar() {
-        document.querySelectorAll(".nav-file").forEach(file => {
-            let link = file.querySelector("a.tree-link");
-            if (link) {
-                let filePath = link.getAttribute("href");
-                let fileName = filePath.split("/").pop().replace(/\.html$/, "").trim();
-                let titleElement = file.querySelector(".tree-item-title");
+    // Seleciona todos os arquivos na sidebar
+    document.querySelectorAll(".nav-file").forEach(file => {
+        // Obtém o link do arquivo (href)
+        let link = file.querySelector("a.tree-link");
+        if (link) {
+            let filePath = link.getAttribute("href"); // Exemplo: "Estudos/Anotações/Matemática/2. Matemática - Básico/1. Operações fundamentais/1. 1. Adição e subtração.html"
+            
+            // Extrai apenas o nome do arquivo (removendo caminho e extensão)
+            let fileName = filePath.split("/").pop().replace(/\.html$/, "").trim();
 
-                if (titleElement && titleElement.textContent.trim() !== fileName) {
-                    titleElement.textContent = fileName;
-                }
+            // Seleciona o elemento do título visível
+            let titleElement = file.querySelector(".tree-item-title");
+
+            // Atualiza o nome visível no explorador de arquivos
+            if (titleElement && titleElement.textContent.trim() !== fileName) {
+                titleElement.textContent = fileName;
             }
-        });
-    }
-
-    function corrigirTituloDaPagina() {
-        let pageTitleElement = document.querySelector(".page-title");
-        if (pageTitleElement) {
-            let currentPath = window.location.pathname.split("/").pop().replace(/\.html$/, "").trim();
-            if (pageTitleElement.textContent.trim() !== currentPath) {
-                pageTitleElement.textContent = currentPath;
-            }
-        }
-    }
-
-    // Executa as correções iniciais
-    corrigirTitulosSidebar();
-    corrigirTituloDaPagina();
-
-    // Observa mudanças no explorador de arquivos
-    const observerSidebar = new MutationObserver(() => corrigirTitulosSidebar());
-    observerSidebar.observe(document.querySelector(".nav-folder-children"), { childList: true, subtree: true });
-
-    // Observa mudanças no título da página
-    const observerTitulo = new MutationObserver(() => corrigirTituloDaPagina());
-    observerTitulo.observe(document.body, { childList: true, subtree: true });
-
-    // Reexecuta ao navegar entre notas (corrige títulos dentro das notas)
-    document.addEventListener("click", function (event) {
-        if (event.target.closest(".tree-link")) {
-            setTimeout(() => {
-                corrigirTitulosSidebar();
-                corrigirTituloDaPagina();
-            }, 100); // Pequeno delay para garantir que a nova nota foi carregada
         }
     });
 });
 
+
+document.addEventListener("DOMContentLoaded", function () {
+    // Obtém o nome do arquivo HTML atual
+    let fileName = document.title; // Título da página geralmente corresponde ao nome do arquivo
+
+    // Remove a extensão ".html" caso esteja presente
+    fileName = fileName.replace(/\.html$/, "").trim();
+
+    // Encontra o elemento do título (h1)
+    let titleElement = document.querySelector("h1.page-title");
+
+    if (titleElement) {
+        // Atualiza o ID para ser igual ao nome correto do arquivo
+        titleElement.id = fileName;
+        
+        // Atualiza também o texto do título se estiver incorreto
+        if (titleElement.textContent.trim() !== fileName) {
+            titleElement.textContent = fileName;
+        }
+    }
+});
 
 // Formatação de listas dentro de páginas: Tentativa 2 (NÃO RESOLVIDO)
 
