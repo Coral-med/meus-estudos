@@ -31,17 +31,35 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Executa a correção inicial
+    function corrigirTituloDaPagina() {
+        let pageTitleElement = document.querySelector(".page-title");
+        if (pageTitleElement) {
+            let currentPath = window.location.pathname.split("/").pop().replace(/\.html$/, "").trim();
+            if (pageTitleElement.textContent.trim() !== currentPath) {
+                pageTitleElement.textContent = currentPath;
+            }
+        }
+    }
+
+    // Executa as correções iniciais
     corrigirTitulosSidebar();
+    corrigirTituloDaPagina();
 
-    // Observador de mudanças no DOM (para GitHub Pages)
-    const observer = new MutationObserver(() => corrigirTitulosSidebar());
-    observer.observe(document.querySelector(".nav-folder-children"), { childList: true, subtree: true });
+    // Observa mudanças no explorador de arquivos
+    const observerSidebar = new MutationObserver(() => corrigirTitulosSidebar());
+    observerSidebar.observe(document.querySelector(".nav-folder-children"), { childList: true, subtree: true });
 
-    // Reexecuta ao navegar entre notas
+    // Observa mudanças no título da página
+    const observerTitulo = new MutationObserver(() => corrigirTituloDaPagina());
+    observerTitulo.observe(document.body, { childList: true, subtree: true });
+
+    // Reexecuta ao navegar entre notas (corrige títulos dentro das notas)
     document.addEventListener("click", function (event) {
         if (event.target.closest(".tree-link")) {
-            setTimeout(corrigirTitulosSidebar, 100); // Pequeno delay para garantir que o título já carregou
+            setTimeout(() => {
+                corrigirTitulosSidebar();
+                corrigirTituloDaPagina();
+            }, 100); // Pequeno delay para garantir que a nova nota foi carregada
         }
     });
 });
