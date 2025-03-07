@@ -72,6 +72,15 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     /* === INÍCIO DA CORREÇÃO DO MATHJAX === */
+    window.MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']] // Suporte a equações inline
+        },
+        chtml: {
+            fontURL: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/output/chtml/fonts/woff-v2'
+        }
+    };
+
     function carregarMathJax() {
         if (window.MathJax) {
             MathJax.typesetPromise(); // Se já estiver carregado, apenas renderiza as equações
@@ -79,17 +88,10 @@ document.addEventListener("DOMContentLoaded", function () {
         }
 
         var script = document.createElement("script");
-        script.type = "text/javascript";
-        script.src = "https://polyfill.io/v3/polyfill.min.js?features=es6";
+        script.src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js";
+        script.async = true;
         script.onload = function () {
-            var mathJaxScript = document.createElement("script");
-            mathJaxScript.type = "text/javascript";
-            mathJaxScript.src = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js";
-            mathJaxScript.async = true;
-            mathJaxScript.onload = function () {
-                MathJax.typesetPromise();
-            };
-            document.head.appendChild(mathJaxScript);
+            MathJax.typesetPromise();
         };
         document.head.appendChild(script);
     }
