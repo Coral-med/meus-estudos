@@ -47,38 +47,10 @@ document.addEventListener("DOMContentLoaded", function () {
         document.title = currentPath;
     }
 
-    /* === Corrige o caminho das fontes para garantir a capitalização correta === */
-    function corrigirFontes() {
-        // Corrigir os caminhos das fontes para garantir a capitalização correta
-        const fontes = [
-            "MathJax_Zero.woff",
-            "MathJax_Main-Regular.woff",
-            "MathJax_MathItalic.woff",
-            "MathJax_Size1-Regular.woff",
-            "MathJax_Size2-Regular.woff",
-            "MathJax_Size3-Regular.woff",
-            "MathJax_Size4-Regular.woff",
-            "MathJax_AMS-Regular.woff"
-        ];
-
-        fontes.forEach(function(fonte) {
-            // Ajusta o caminho completo para garantir a capitalização
-            const caminhoFonte = `https://coral-med.github.io/meus-estudos/lib/fonts/${fonte}`;
-            
-            // Atualiza o caminho no MathJax (isso vai garantir que as fontes sejam carregadas corretamente)
-            MathJax.Hub.Config({
-                paths: {
-                    fonts: caminhoFonte
-                }
-            });
-        });
-    }
-
     /* === Aplica todas as correções iniciais === */
     function aplicarCorrecoes() {
         corrigirTitulosSidebar();
         corrigirTituloDaPagina();
-        corrigirFontes(); // Chama a função para corrigir as fontes
     }
 
     // Correção inicial
